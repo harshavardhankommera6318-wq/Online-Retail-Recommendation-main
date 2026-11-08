@@ -1,8 +1,8 @@
 # Online Retail Recommendation System
 
 **Internship project:** Machine Learning  
-**Intern ID:** `CITS9471`  
-**Full name:** `Chilaka Pankaj Dheeraj`  
+**Intern ID:** `CITS7487`  
+**Full name:** `KOMMERA.HARSHA VARDHAN`  
 **Duration (weeks):** `12 weeks`  
 
 ## Project Overview
