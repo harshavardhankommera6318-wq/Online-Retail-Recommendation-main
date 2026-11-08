@@ -1,0 +1,1801 @@
+transaction_id,customer_id,product_name,category,subcategory,quantity,unit_price,total_amount,purchase_month
+TRX0001,CUST015,Bedsheet,Home,Home,3,4655,13965,April
+TRX0002,CUST064,Mouse,Electronics,Electronics,1,3192,3192,March
+TRX0003,CUST135,Face Wash,Beauty,Beauty,3,2658,7974,February
+TRX0004,CUST132,Keyboard,Electronics,Electronics,2,566,1132,February
+TRX0005,CUST250,Laptop,Electronics,Electronics,1,3872,3872,February
+TRX0006,CUST084,Machine Learning,Books,Books,3,574,1722,December
+TRX0007,CUST008,Table,Home,Home,4,2491,9964,February
+TRX0008,CUST104,AI Basics,Books,Books,2,4943,9886,June
+TRX0009,CUST054,Jacket,Fashion,Fashion,2,1785,3570,February
+TRX0010,CUST218,AI Basics,Books,Books,2,4943,9886,April
+TRX0011,CUST014,Python Programming,Books,Books,2,4217,8434,August
+TRX0012,CUST213,Shampoo,Beauty,Beauty,3,2147,6441,May
+TRX0013,CUST024,T-Shirt,Fashion,Fashion,4,3271,13084,December
+TRX0014,CUST124,Face Wash,Beauty,Beauty,1,2658,2658,January
+TRX0015,CUST089,Headphones,Electronics,Electronics,4,960,3840,August
+TRX0016,CUST216,Lamp,Home,Home,1,1284,1284,August
+TRX0017,CUST163,Table,Home,Home,3,2491,7473,May
+TRX0018,CUST234,T-Shirt,Fashion,Fashion,4,3271,13084,July
+TRX0019,CUST201,AI Basics,Books,Books,1,4943,4943,July
+TRX0020,CUST151,Perfume,Beauty,Beauty,4,2847,11388,August
+TRX0021,CUST214,Lamp,Home,Home,1,1284,1284,March
+TRX0022,CUST101,Table,Home,Home,1,2491,2491,October
+TRX0023,CUST247,Table,Home,Home,3,2491,7473,October
+TRX0024,CUST042,Web Development,Books,Books,3,1182,3546,July
+TRX0025,CUST241,Web Development,Books,Books,4,1182,4728,April
+TRX0026,CUST222,Perfume,Beauty,Beauty,3,2847,8541,November
+TRX0027,CUST029,Web Development,Books,Books,4,1182,4728,July
+TRX0028,CUST187,Bedsheet,Home,Home,2,4655,9310,October
+TRX0029,CUST045,Smartphone,Electronics,Electronics,2,4526,9052,December
+TRX0030,CUST028,Machine Learning,Books,Books,4,574,2296,November
+TRX0031,CUST128,Jacket,Fashion,Fashion,1,1785,1785,July
+TRX0032,CUST190,Headphones,Electronics,Electronics,1,960,960,November
+TRX0033,CUST190,Keyboard,Electronics,Electronics,1,566,566,September
+TRX0034,CUST003,Table,Home,Home,2,2491,4982,May
+TRX0035,CUST225,Chair,Home,Home,4,2533,10132,August
+TRX0036,CUST207,Table,Home,Home,4,2491,9964,January
+TRX0037,CUST062,Laptop,Electronics,Electronics,4,3872,15488,December
+TRX0038,CUST039,Shoes,Fashion,Fashion,1,230,230,May
+TRX0039,CUST113,Mouse,Electronics,Electronics,1,3192,3192,February
+TRX0040,CUST130,Web Development,Books,Books,4,1182,4728,January
+TRX0041,CUST129,Chair,Home,Home,1,2533,2533,December
+TRX0042,CUST218,Data Science,Books,Books,4,3004,12016,November
+TRX0043,CUST145,Moisturizer,Beauty,Beauty,2,1075,2150,June
+TRX0044,CUST214,Table,Home,Home,1,2491,2491,December
+TRX0045,CUST187,Perfume,Beauty,Beauty,4,2847,11388,December
+TRX0046,CUST187,Data Science,Books,Books,2,3004,6008,March
+TRX0047,CUST147,Machine Learning,Books,Books,1,574,574,January
+TRX0048,CUST168,T-Shirt,Fashion,Fashion,3,3271,9813,December
+TRX0049,CUST185,Laptop,Electronics,Electronics,3,3872,11616,October
+TRX0050,CUST099,AI Basics,Books,Books,4,4943,19772,September
+TRX0051,CUST244,Python Programming,Books,Books,2,4217,8434,January
+TRX0052,CUST048,Web Development,Books,Books,1,1182,1182,November
+TRX0053,CUST247,Headphones,Electronics,Electronics,3,960,2880,March
+TRX0054,CUST048,Bedsheet,Home,Home,4,4655,18620,June
+TRX0055,CUST120,Keyboard,Electronics,Electronics,3,566,1698,January
+TRX0056,CUST200,Machine Learning,Books,Books,2,574,1148,March
+TRX0057,CUST112,Mouse,Electronics,Electronics,1,3192,3192,February
+TRX0058,CUST128,Jeans,Fashion,Fashion,2,3019,6038,March
+TRX0059,CUST208,Face Wash,Beauty,Beauty,4,2658,10632,January
+TRX0060,CUST068,Smartwatch,Electronics,Electronics,1,3544,3544,April
+TRX0061,CUST248,Table,Home,Home,4,2491,9964,January
+TRX0062,CUST176,Data Science,Books,Books,3,3004,9012,June
+TRX0063,CUST119,Perfume,Beauty,Beauty,2,2847,5694,August
+TRX0064,CUST027,Chair,Home,Home,1,2533,2533,January
+TRX0065,CUST028,Smartphone,Electronics,Electronics,4,4526,18104,March
+TRX0066,CUST004,Table,Home,Home,4,2491,9964,January
+TRX0067,CUST172,Web Development,Books,Books,2,1182,2364,May
+TRX0068,CUST006,Bedsheet,Home,Home,1,4655,4655,May
+TRX0069,CUST024,Face Wash,Beauty,Beauty,2,2658,5316,May
+TRX0070,CUST095,Bedsheet,Home,Home,1,4655,4655,April
+TRX0071,CUST191,Face Wash,Beauty,Beauty,4,2658,10632,July
+TRX0072,CUST161,Chair,Home,Home,1,2533,2533,October
+TRX0073,CUST223,Shoes,Fashion,Fashion,4,230,920,August
+TRX0074,CUST114,Shoes,Fashion,Fashion,2,230,460,February
+TRX0075,CUST218,Headphones,Electronics,Electronics,1,960,960,November
+TRX0076,CUST246,Shampoo,Beauty,Beauty,3,2147,6441,October
+TRX0077,CUST099,T-Shirt,Fashion,Fashion,4,3271,13084,December
+TRX0078,CUST250,Keyboard,Electronics,Electronics,1,566,566,April
+TRX0079,CUST065,Data Science,Books,Books,3,3004,9012,December
+TRX0080,CUST098,Shoes,Fashion,Fashion,1,230,230,October
+TRX0081,CUST063,Shampoo,Beauty,Beauty,2,2147,4294,October
+TRX0082,CUST086,Keyboard,Electronics,Electronics,2,566,1132,June
+TRX0083,CUST015,Bedsheet,Home,Home,1,4655,4655,January
+TRX0084,CUST008,Moisturizer,Beauty,Beauty,4,1075,4300,December
+TRX0085,CUST005,Web Development,Books,Books,4,1182,4728,April
+TRX0086,CUST094,Bedsheet,Home,Home,4,4655,18620,February
+TRX0087,CUST124,Shoes,Fashion,Fashion,1,230,230,August
+TRX0088,CUST063,Bedsheet,Home,Home,2,4655,9310,July
+TRX0089,CUST090,Shampoo,Beauty,Beauty,1,2147,2147,July
+TRX0090,CUST127,Keyboard,Electronics,Electronics,1,566,566,January
+TRX0091,CUST058,T-Shirt,Fashion,Fashion,3,3271,9813,February
+TRX0092,CUST096,Smartphone,Electronics,Electronics,1,4526,4526,January
+TRX0093,CUST016,Perfume,Beauty,Beauty,4,2847,11388,May
+TRX0094,CUST022,Perfume,Beauty,Beauty,3,2847,8541,December
+TRX0095,CUST154,Pillow,Home,Home,2,3485,6970,September
+TRX0096,CUST029,Web Development,Books,Books,3,1182,3546,January
+TRX0097,CUST094,Web Development,Books,Books,4,1182,4728,October
+TRX0098,CUST218,Perfume,Beauty,Beauty,4,2847,11388,January
+TRX0099,CUST222,Perfume,Beauty,Beauty,2,2847,5694,October
+TRX0100,CUST246,Moisturizer,Beauty,Beauty,2,1075,2150,April
+TRX0101,CUST223,Jeans,Fashion,Fashion,3,3019,9057,October
+TRX0102,CUST096,Smartphone,Electronics,Electronics,1,4526,4526,April
+TRX0103,CUST016,T-Shirt,Fashion,Fashion,4,3271,13084,November
+TRX0104,CUST084,AI Basics,Books,Books,3,4943,14829,December
+TRX0105,CUST033,Smartphone,Electronics,Electronics,3,4526,13578,November
+TRX0106,CUST101,Data Science,Books,Books,1,3004,3004,January
+TRX0107,CUST168,Shoes,Fashion,Fashion,4,230,920,December
+TRX0108,CUST095,Watch,Fashion,Fashion,3,869,2607,February
+TRX0109,CUST035,Laptop,Electronics,Electronics,4,3872,15488,October
+TRX0110,CUST202,Jeans,Fashion,Fashion,3,3019,9057,September
+TRX0111,CUST135,AI Basics,Books,Books,1,4943,4943,February
+TRX0112,CUST237,Pillow,Home,Home,4,3485,13940,April
+TRX0113,CUST217,Face Wash,Beauty,Beauty,1,2658,2658,April
+TRX0114,CUST138,Face Wash,Beauty,Beauty,4,2658,10632,March
+TRX0115,CUST177,Bedsheet,Home,Home,2,4655,9310,January
+TRX0116,CUST231,Moisturizer,Beauty,Beauty,1,1075,1075,July
+TRX0117,CUST013,Mouse,Electronics,Electronics,1,3192,3192,January
+TRX0118,CUST113,Python Programming,Books,Books,2,4217,8434,November
+TRX0119,CUST019,Keyboard,Electronics,Electronics,4,566,2264,September
+TRX0120,CUST147,Python Programming,Books,Books,3,4217,12651,December
+TRX0121,CUST206,Data Science,Books,Books,2,3004,6008,May
+TRX0122,CUST069,Bedsheet,Home,Home,1,4655,4655,April
+TRX0123,CUST123,Moisturizer,Beauty,Beauty,1,1075,1075,July
+TRX0124,CUST144,Smartphone,Electronics,Electronics,1,4526,4526,October
+TRX0125,CUST186,Watch,Fashion,Fashion,3,869,2607,July
+TRX0126,CUST221,Lamp,Home,Home,2,1284,2568,December
+TRX0127,CUST009,Jeans,Fashion,Fashion,4,3019,12076,January
+TRX0128,CUST230,Moisturizer,Beauty,Beauty,2,1075,2150,September
+TRX0129,CUST178,Chair,Home,Home,2,2533,5066,May
+TRX0130,CUST029,Shampoo,Beauty,Beauty,3,2147,6441,August
+TRX0131,CUST240,Face Wash,Beauty,Beauty,2,2658,5316,April
+TRX0132,CUST145,Smartphone,Electronics,Electronics,4,4526,18104,April
+TRX0133,CUST070,Data Science,Books,Books,1,3004,3004,December
+TRX0134,CUST182,Chair,Home,Home,2,2533,5066,March
+TRX0135,CUST039,Pillow,Home,Home,1,3485,3485,February
+TRX0136,CUST220,Jacket,Fashion,Fashion,4,1785,7140,August
+TRX0137,CUST061,Headphones,Electronics,Electronics,3,960,2880,December
+TRX0138,CUST190,Keyboard,Electronics,Electronics,1,566,566,September
+TRX0139,CUST056,Smartwatch,Electronics,Electronics,1,3544,3544,June
+TRX0140,CUST058,Web Development,Books,Books,4,1182,4728,May
+TRX0141,CUST080,Perfume,Beauty,Beauty,4,2847,11388,May
+TRX0142,CUST164,Lamp,Home,Home,4,1284,5136,September
+TRX0143,CUST146,Headphones,Electronics,Electronics,2,960,1920,January
+TRX0144,CUST117,Table,Home,Home,3,2491,7473,December
+TRX0145,CUST074,Machine Learning,Books,Books,1,574,574,August
+TRX0146,CUST122,Machine Learning,Books,Books,2,574,1148,August
+TRX0147,CUST186,AI Basics,Books,Books,4,4943,19772,December
+TRX0148,CUST101,Keyboard,Electronics,Electronics,4,566,2264,November
+TRX0149,CUST246,Headphones,Electronics,Electronics,1,960,960,May
+TRX0150,CUST212,Moisturizer,Beauty,Beauty,4,1075,4300,March
+TRX0151,CUST134,Shoes,Fashion,Fashion,4,230,920,May
+TRX0152,CUST047,Laptop,Electronics,Electronics,2,3872,7744,August
+TRX0153,CUST030,Shoes,Fashion,Fashion,1,230,230,May
+TRX0154,CUST119,Smartwatch,Electronics,Electronics,1,3544,3544,February
+TRX0155,CUST224,Mouse,Electronics,Electronics,1,3192,3192,October
+TRX0156,CUST063,Smartwatch,Electronics,Electronics,3,3544,10632,November
+TRX0157,CUST177,Face Wash,Beauty,Beauty,2,2658,5316,September
+TRX0158,CUST099,Smartphone,Electronics,Electronics,4,4526,18104,July
+TRX0159,CUST006,Python Programming,Books,Books,1,4217,4217,May
+TRX0160,CUST102,Pillow,Home,Home,3,3485,10455,May
+TRX0161,CUST053,Shampoo,Beauty,Beauty,2,2147,4294,March
+TRX0162,CUST145,Shampoo,Beauty,Beauty,1,2147,2147,January
+TRX0163,CUST051,Face Wash,Beauty,Beauty,4,2658,10632,January
+TRX0164,CUST113,Jacket,Fashion,Fashion,3,1785,5355,August
+TRX0165,CUST039,Jeans,Fashion,Fashion,2,3019,6038,June
+TRX0166,CUST118,Lamp,Home,Home,2,1284,2568,December
+TRX0167,CUST193,Web Development,Books,Books,2,1182,2364,November
+TRX0168,CUST057,Smartphone,Electronics,Electronics,1,4526,4526,February
+TRX0169,CUST075,Bedsheet,Home,Home,2,4655,9310,June
+TRX0170,CUST050,Jeans,Fashion,Fashion,2,3019,6038,November
+TRX0171,CUST179,Jacket,Fashion,Fashion,1,1785,1785,June
+TRX0172,CUST225,AI Basics,Books,Books,3,4943,14829,January
+TRX0173,CUST133,Moisturizer,Beauty,Beauty,2,1075,2150,August
+TRX0174,CUST145,T-Shirt,Fashion,Fashion,4,3271,13084,April
+TRX0175,CUST216,Shampoo,Beauty,Beauty,2,2147,4294,May
+TRX0176,CUST194,Shampoo,Beauty,Beauty,3,2147,6441,November
+TRX0177,CUST240,Lamp,Home,Home,3,1284,3852,September
+TRX0178,CUST151,Bedsheet,Home,Home,4,4655,18620,April
+TRX0179,CUST184,Mouse,Electronics,Electronics,4,3192,12768,March
+TRX0180,CUST155,Moisturizer,Beauty,Beauty,2,1075,2150,October
+TRX0181,CUST051,Pillow,Home,Home,1,3485,3485,February
+TRX0182,CUST092,Watch,Fashion,Fashion,2,869,1738,May
+TRX0183,CUST070,Smartphone,Electronics,Electronics,1,4526,4526,December
+TRX0184,CUST090,T-Shirt,Fashion,Fashion,2,3271,6542,October
+TRX0185,CUST045,Table,Home,Home,2,2491,4982,September
+TRX0186,CUST047,Smartwatch,Electronics,Electronics,3,3544,10632,August
+TRX0187,CUST094,Pillow,Home,Home,1,3485,3485,October
+TRX0188,CUST036,Headphones,Electronics,Electronics,3,960,2880,April
+TRX0189,CUST207,Jacket,Fashion,Fashion,3,1785,5355,August
+TRX0190,CUST130,Shampoo,Beauty,Beauty,2,2147,4294,November
+TRX0191,CUST056,Lamp,Home,Home,3,1284,3852,July
+TRX0192,CUST238,Bedsheet,Home,Home,1,4655,4655,February
+TRX0193,CUST250,Lamp,Home,Home,3,1284,3852,September
+TRX0194,CUST119,Moisturizer,Beauty,Beauty,2,1075,2150,July
+TRX0195,CUST185,Smartwatch,Electronics,Electronics,2,3544,7088,December
+TRX0196,CUST025,Smartphone,Electronics,Electronics,4,4526,18104,September
+TRX0197,CUST068,Shoes,Fashion,Fashion,1,230,230,February
+TRX0198,CUST111,AI Basics,Books,Books,3,4943,14829,August
+TRX0199,CUST168,Keyboard,Electronics,Electronics,3,566,1698,October
+TRX0200,CUST169,Shampoo,Beauty,Beauty,4,2147,8588,October
+TRX0201,CUST064,Shoes,Fashion,Fashion,4,230,920,November
+TRX0202,CUST109,Face Wash,Beauty,Beauty,1,2658,2658,May
+TRX0203,CUST150,Shampoo,Beauty,Beauty,2,2147,4294,July
+TRX0204,CUST112,Data Science,Books,Books,2,3004,6008,August
+TRX0205,CUST055,Mouse,Electronics,Electronics,3,3192,9576,August
+TRX0206,CUST229,AI Basics,Books,Books,4,4943,19772,December
+TRX0207,CUST075,Python Programming,Books,Books,2,4217,8434,August
+TRX0208,CUST230,Table,Home,Home,2,2491,4982,November
+TRX0209,CUST136,Shoes,Fashion,Fashion,1,230,230,December
+TRX0210,CUST133,Jacket,Fashion,Fashion,3,1785,5355,April
+TRX0211,CUST225,Python Programming,Books,Books,4,4217,16868,January
+TRX0212,CUST090,Shampoo,Beauty,Beauty,3,2147,6441,April
+TRX0213,CUST077,Lamp,Home,Home,1,1284,1284,June
+TRX0214,CUST178,Watch,Fashion,Fashion,3,869,2607,October
+TRX0215,CUST172,Watch,Fashion,Fashion,4,869,3476,February
+TRX0216,CUST084,Smartphone,Electronics,Electronics,1,4526,4526,January
+TRX0217,CUST009,Lamp,Home,Home,2,1284,2568,January
+TRX0218,CUST069,Machine Learning,Books,Books,2,574,1148,May
+TRX0219,CUST120,Table,Home,Home,2,2491,4982,December
+TRX0220,CUST227,Table,Home,Home,4,2491,9964,June
+TRX0221,CUST060,Moisturizer,Beauty,Beauty,3,1075,3225,September
+TRX0222,CUST229,Data Science,Books,Books,1,3004,3004,May
+TRX0223,CUST005,Lamp,Home,Home,2,1284,2568,October
+TRX0224,CUST062,Python Programming,Books,Books,1,4217,4217,October
+TRX0225,CUST089,Shoes,Fashion,Fashion,1,230,230,June
+TRX0226,CUST097,Headphones,Electronics,Electronics,1,960,960,January
+TRX0227,CUST239,Watch,Fashion,Fashion,4,869,3476,August
+TRX0228,CUST179,Lamp,Home,Home,3,1284,3852,March
+TRX0229,CUST200,Jacket,Fashion,Fashion,3,1785,5355,January
+TRX0230,CUST244,Bedsheet,Home,Home,1,4655,4655,June
+TRX0231,CUST185,Smartphone,Electronics,Electronics,1,4526,4526,November
+TRX0232,CUST183,Smartwatch,Electronics,Electronics,4,3544,14176,June
+TRX0233,CUST066,Watch,Fashion,Fashion,3,869,2607,October
+TRX0234,CUST097,Perfume,Beauty,Beauty,3,2847,8541,April
+TRX0235,CUST109,Web Development,Books,Books,4,1182,4728,May
+TRX0236,CUST157,Machine Learning,Books,Books,1,574,574,February
+TRX0237,CUST155,Lamp,Home,Home,4,1284,5136,April
+TRX0238,CUST026,Lamp,Home,Home,1,1284,1284,April
+TRX0239,CUST011,Jeans,Fashion,Fashion,2,3019,6038,November
+TRX0240,CUST140,Watch,Fashion,Fashion,4,869,3476,February
+TRX0241,CUST217,Keyboard,Electronics,Electronics,3,566,1698,December
+TRX0242,CUST236,Machine Learning,Books,Books,1,574,574,August
+TRX0243,CUST037,T-Shirt,Fashion,Fashion,4,3271,13084,October
+TRX0244,CUST137,Pillow,Home,Home,2,3485,6970,August
+TRX0245,CUST041,Table,Home,Home,2,2491,4982,May
+TRX0246,CUST149,Jacket,Fashion,Fashion,2,1785,3570,July
+TRX0247,CUST057,Smartwatch,Electronics,Electronics,3,3544,10632,March
+TRX0248,CUST168,Perfume,Beauty,Beauty,1,2847,2847,May
+TRX0249,CUST137,Jacket,Fashion,Fashion,1,1785,1785,May
+TRX0250,CUST154,Mouse,Electronics,Electronics,3,3192,9576,April
+TRX0251,CUST025,Shoes,Fashion,Fashion,2,230,460,February
+TRX0252,CUST135,Shoes,Fashion,Fashion,2,230,460,November
+TRX0253,CUST017,Lamp,Home,Home,4,1284,5136,November
+TRX0254,CUST179,Keyboard,Electronics,Electronics,2,566,1132,May
+TRX0255,CUST088,Headphones,Electronics,Electronics,1,960,960,November
+TRX0256,CUST150,Jacket,Fashion,Fashion,2,1785,3570,May
+TRX0257,CUST049,Keyboard,Electronics,Electronics,1,566,566,January
+TRX0258,CUST148,Web Development,Books,Books,4,1182,4728,January
+TRX0259,CUST071,Smartphone,Electronics,Electronics,2,4526,9052,July
+TRX0260,CUST179,Lamp,Home,Home,2,1284,2568,January
+TRX0261,CUST173,Shampoo,Beauty,Beauty,4,2147,8588,August
+TRX0262,CUST019,T-Shirt,Fashion,Fashion,2,3271,6542,March
+TRX0263,CUST175,Jeans,Fashion,Fashion,2,3019,6038,December
+TRX0264,CUST113,Shoes,Fashion,Fashion,3,230,690,April
+TRX0265,CUST129,Perfume,Beauty,Beauty,3,2847,8541,March
+TRX0266,CUST032,Jeans,Fashion,Fashion,3,3019,9057,February
+TRX0267,CUST124,Keyboard,Electronics,Electronics,4,566,2264,February
+TRX0268,CUST135,Moisturizer,Beauty,Beauty,1,1075,1075,September
+TRX0269,CUST247,Lamp,Home,Home,3,1284,3852,August
+TRX0270,CUST054,Smartphone,Electronics,Electronics,3,4526,13578,March
+TRX0271,CUST097,AI Basics,Books,Books,3,4943,14829,August
+TRX0272,CUST078,Bedsheet,Home,Home,4,4655,18620,May
+TRX0273,CUST182,Shampoo,Beauty,Beauty,3,2147,6441,July
+TRX0274,CUST176,Jeans,Fashion,Fashion,3,3019,9057,January
+TRX0275,CUST151,Perfume,Beauty,Beauty,4,2847,11388,March
+TRX0276,CUST036,Moisturizer,Beauty,Beauty,2,1075,2150,February
+TRX0277,CUST129,Moisturizer,Beauty,Beauty,3,1075,3225,October
+TRX0278,CUST130,Bedsheet,Home,Home,4,4655,18620,May
+TRX0279,CUST037,Laptop,Electronics,Electronics,1,3872,3872,December
+TRX0280,CUST099,AI Basics,Books,Books,2,4943,9886,December
+TRX0281,CUST024,Laptop,Electronics,Electronics,2,3872,7744,August
+TRX0282,CUST059,Laptop,Electronics,Electronics,3,3872,11616,January
+TRX0283,CUST014,Laptop,Electronics,Electronics,1,3872,3872,September
+TRX0284,CUST103,Smartwatch,Electronics,Electronics,2,3544,7088,November
+TRX0285,CUST238,AI Basics,Books,Books,2,4943,9886,February
+TRX0286,CUST215,Perfume,Beauty,Beauty,2,2847,5694,February
+TRX0287,CUST128,Shampoo,Beauty,Beauty,4,2147,8588,September
+TRX0288,CUST166,T-Shirt,Fashion,Fashion,1,3271,3271,September
+TRX0289,CUST230,Jacket,Fashion,Fashion,3,1785,5355,May
+TRX0290,CUST106,Perfume,Beauty,Beauty,1,2847,2847,June
+TRX0291,CUST219,Jacket,Fashion,Fashion,1,1785,1785,September
+TRX0292,CUST053,Watch,Fashion,Fashion,1,869,869,October
+TRX0293,CUST213,AI Basics,Books,Books,2,4943,9886,February
+TRX0294,CUST054,Table,Home,Home,3,2491,7473,May
+TRX0295,CUST036,Chair,Home,Home,1,2533,2533,May
+TRX0296,CUST011,Bedsheet,Home,Home,1,4655,4655,November
+TRX0297,CUST039,Chair,Home,Home,3,2533,7599,August
+TRX0298,CUST246,Moisturizer,Beauty,Beauty,1,1075,1075,October
+TRX0299,CUST036,Data Science,Books,Books,3,3004,9012,April
+TRX0300,CUST235,Smartwatch,Electronics,Electronics,3,3544,10632,November
+TRX0301,CUST226,Laptop,Electronics,Electronics,2,3872,7744,May
+TRX0302,CUST073,Headphones,Electronics,Electronics,1,960,960,September
+TRX0303,CUST061,Chair,Home,Home,1,2533,2533,July
+TRX0304,CUST035,Chair,Home,Home,1,2533,2533,December
+TRX0305,CUST172,Chair,Home,Home,4,2533,10132,March
+TRX0306,CUST101,Data Science,Books,Books,3,3004,9012,January
+TRX0307,CUST189,Laptop,Electronics,Electronics,1,3872,3872,July
+TRX0308,CUST241,Data Science,Books,Books,4,3004,12016,May
+TRX0309,CUST081,Shampoo,Beauty,Beauty,4,2147,8588,June
+TRX0310,CUST200,Laptop,Electronics,Electronics,1,3872,3872,December
+TRX0311,CUST143,Chair,Home,Home,1,2533,2533,October
+TRX0312,CUST047,T-Shirt,Fashion,Fashion,3,3271,9813,October
+TRX0313,CUST213,Watch,Fashion,Fashion,3,869,2607,September
+TRX0314,CUST115,Shoes,Fashion,Fashion,3,230,690,February
+TRX0315,CUST223,Data Science,Books,Books,2,3004,6008,November
+TRX0316,CUST234,Smartwatch,Electronics,Electronics,3,3544,10632,August
+TRX0317,CUST227,Machine Learning,Books,Books,1,574,574,February
+TRX0318,CUST131,Perfume,Beauty,Beauty,4,2847,11388,October
+TRX0319,CUST183,Python Programming,Books,Books,4,4217,16868,June
+TRX0320,CUST153,Shampoo,Beauty,Beauty,1,2147,2147,October
+TRX0321,CUST108,Shoes,Fashion,Fashion,2,230,460,February
+TRX0322,CUST158,Pillow,Home,Home,1,3485,3485,February
+TRX0323,CUST160,Lamp,Home,Home,3,1284,3852,April
+TRX0324,CUST029,Smartphone,Electronics,Electronics,2,4526,9052,May
+TRX0325,CUST236,Keyboard,Electronics,Electronics,3,566,1698,September
+TRX0326,CUST010,Keyboard,Electronics,Electronics,1,566,566,January
+TRX0327,CUST222,Mouse,Electronics,Electronics,1,3192,3192,August
+TRX0328,CUST158,Jacket,Fashion,Fashion,2,1785,3570,May
+TRX0329,CUST153,Smartphone,Electronics,Electronics,2,4526,9052,September
+TRX0330,CUST143,Headphones,Electronics,Electronics,4,960,3840,April
+TRX0331,CUST140,Chair,Home,Home,1,2533,2533,May
+TRX0332,CUST171,Data Science,Books,Books,2,3004,6008,February
+TRX0333,CUST153,Machine Learning,Books,Books,3,574,1722,August
+TRX0334,CUST148,Perfume,Beauty,Beauty,2,2847,5694,May
+TRX0335,CUST243,Shampoo,Beauty,Beauty,2,2147,4294,November
+TRX0336,CUST226,Laptop,Electronics,Electronics,1,3872,3872,January
+TRX0337,CUST250,Pillow,Home,Home,1,3485,3485,June
+TRX0338,CUST047,Headphones,Electronics,Electronics,3,960,2880,April
+TRX0339,CUST122,Smartphone,Electronics,Electronics,3,4526,13578,October
+TRX0340,CUST163,Jeans,Fashion,Fashion,2,3019,6038,January
+TRX0341,CUST216,Lamp,Home,Home,2,1284,2568,August
+TRX0342,CUST125,Headphones,Electronics,Electronics,4,960,3840,May
+TRX0343,CUST098,Table,Home,Home,4,2491,9964,March
+TRX0344,CUST123,Web Development,Books,Books,1,1182,1182,March
+TRX0345,CUST153,Jacket,Fashion,Fashion,2,1785,3570,September
+TRX0346,CUST207,Smartphone,Electronics,Electronics,3,4526,13578,November
+TRX0347,CUST226,Data Science,Books,Books,1,3004,3004,October
+TRX0348,CUST146,Moisturizer,Beauty,Beauty,4,1075,4300,December
+TRX0349,CUST197,Face Wash,Beauty,Beauty,2,2658,5316,August
+TRX0350,CUST045,Perfume,Beauty,Beauty,2,2847,5694,March
+TRX0351,CUST056,Shoes,Fashion,Fashion,1,230,230,January
+TRX0352,CUST006,Bedsheet,Home,Home,1,4655,4655,November
+TRX0353,CUST059,Smartphone,Electronics,Electronics,3,4526,13578,September
+TRX0354,CUST181,Jacket,Fashion,Fashion,3,1785,5355,November
+TRX0355,CUST166,Web Development,Books,Books,3,1182,3546,October
+TRX0356,CUST249,Chair,Home,Home,2,2533,5066,November
+TRX0357,CUST181,Jacket,Fashion,Fashion,2,1785,3570,December
+TRX0358,CUST039,Watch,Fashion,Fashion,2,869,1738,November
+TRX0359,CUST113,Headphones,Electronics,Electronics,4,960,3840,February
+TRX0360,CUST188,Perfume,Beauty,Beauty,4,2847,11388,June
+TRX0361,CUST211,T-Shirt,Fashion,Fashion,4,3271,13084,February
+TRX0362,CUST063,Machine Learning,Books,Books,3,574,1722,May
+TRX0363,CUST221,Machine Learning,Books,Books,4,574,2296,April
+TRX0364,CUST242,Data Science,Books,Books,4,3004,12016,January
+TRX0365,CUST012,Laptop,Electronics,Electronics,2,3872,7744,January
+TRX0366,CUST022,Shoes,Fashion,Fashion,2,230,460,February
+TRX0367,CUST014,Moisturizer,Beauty,Beauty,4,1075,4300,November
+TRX0368,CUST227,Web Development,Books,Books,4,1182,4728,July
+TRX0369,CUST029,Table,Home,Home,2,2491,4982,March
+TRX0370,CUST203,Jeans,Fashion,Fashion,2,3019,6038,February
+TRX0371,CUST029,Python Programming,Books,Books,3,4217,12651,September
+TRX0372,CUST039,Face Wash,Beauty,Beauty,3,2658,7974,April
+TRX0373,CUST032,Jacket,Fashion,Fashion,2,1785,3570,November
+TRX0374,CUST027,Table,Home,Home,2,2491,4982,December
+TRX0375,CUST184,Web Development,Books,Books,1,1182,1182,May
+TRX0376,CUST187,Data Science,Books,Books,1,3004,3004,May
+TRX0377,CUST131,Table,Home,Home,2,2491,4982,December
+TRX0378,CUST166,Watch,Fashion,Fashion,3,869,2607,January
+TRX0379,CUST025,AI Basics,Books,Books,3,4943,14829,December
+TRX0380,CUST208,Bedsheet,Home,Home,2,4655,9310,September
+TRX0381,CUST145,Face Wash,Beauty,Beauty,4,2658,10632,November
+TRX0382,CUST174,Jacket,Fashion,Fashion,3,1785,5355,March
+TRX0383,CUST093,Web Development,Books,Books,4,1182,4728,December
+TRX0384,CUST122,Bedsheet,Home,Home,2,4655,9310,September
+TRX0385,CUST222,Smartwatch,Electronics,Electronics,4,3544,14176,April
+TRX0386,CUST228,Smartwatch,Electronics,Electronics,4,3544,14176,September
+TRX0387,CUST188,Face Wash,Beauty,Beauty,2,2658,5316,August
+TRX0388,CUST072,Pillow,Home,Home,1,3485,3485,August
+TRX0389,CUST021,Jeans,Fashion,Fashion,2,3019,6038,June
+TRX0390,CUST032,Pillow,Home,Home,1,3485,3485,January
+TRX0391,CUST102,Mouse,Electronics,Electronics,2,3192,6384,March
+TRX0392,CUST088,Headphones,Electronics,Electronics,4,960,3840,September
+TRX0393,CUST046,Machine Learning,Books,Books,1,574,574,October
+TRX0394,CUST168,Jacket,Fashion,Fashion,1,1785,1785,February
+TRX0395,CUST225,Headphones,Electronics,Electronics,1,960,960,January
+TRX0396,CUST077,AI Basics,Books,Books,2,4943,9886,July
+TRX0397,CUST194,Jeans,Fashion,Fashion,2,3019,6038,February
+TRX0398,CUST106,Python Programming,Books,Books,4,4217,16868,November
+TRX0399,CUST061,Lamp,Home,Home,2,1284,2568,September
+TRX0400,CUST006,Headphones,Electronics,Electronics,2,960,1920,December
+TRX0401,CUST008,Jacket,Fashion,Fashion,2,1785,3570,April
+TRX0402,CUST062,Lamp,Home,Home,4,1284,5136,April
+TRX0403,CUST134,Jeans,Fashion,Fashion,3,3019,9057,March
+TRX0404,CUST127,Keyboard,Electronics,Electronics,2,566,1132,November
+TRX0405,CUST210,Machine Learning,Books,Books,1,574,574,September
+TRX0406,CUST045,Chair,Home,Home,3,2533,7599,July
+TRX0407,CUST238,Web Development,Books,Books,4,1182,4728,July
+TRX0408,CUST053,Bedsheet,Home,Home,2,4655,9310,June
+TRX0409,CUST146,Pillow,Home,Home,4,3485,13940,August
+TRX0410,CUST105,Lamp,Home,Home,4,1284,5136,October
+TRX0411,CUST243,Pillow,Home,Home,1,3485,3485,June
+TRX0412,CUST191,Keyboard,Electronics,Electronics,1,566,566,May
+TRX0413,CUST159,Watch,Fashion,Fashion,4,869,3476,April
+TRX0414,CUST037,Machine Learning,Books,Books,4,574,2296,April
+TRX0415,CUST188,T-Shirt,Fashion,Fashion,3,3271,9813,September
+TRX0416,CUST164,Watch,Fashion,Fashion,2,869,1738,April
+TRX0417,CUST066,Jacket,Fashion,Fashion,2,1785,3570,July
+TRX0418,CUST170,Lamp,Home,Home,2,1284,2568,June
+TRX0419,CUST125,Data Science,Books,Books,1,3004,3004,February
+TRX0420,CUST040,Perfume,Beauty,Beauty,1,2847,2847,March
+TRX0421,CUST026,AI Basics,Books,Books,4,4943,19772,February
+TRX0422,CUST119,Face Wash,Beauty,Beauty,2,2658,5316,September
+TRX0423,CUST062,Web Development,Books,Books,3,1182,3546,August
+TRX0424,CUST231,Keyboard,Electronics,Electronics,2,566,1132,July
+TRX0425,CUST070,Mouse,Electronics,Electronics,1,3192,3192,September
+TRX0426,CUST028,Shoes,Fashion,Fashion,1,230,230,May
+TRX0427,CUST193,Machine Learning,Books,Books,1,574,574,July
+TRX0428,CUST047,Chair,Home,Home,3,2533,7599,June
+TRX0429,CUST014,Watch,Fashion,Fashion,2,869,1738,December
+TRX0430,CUST094,Headphones,Electronics,Electronics,1,960,960,April
+TRX0431,CUST008,Bedsheet,Home,Home,1,4655,4655,September
+TRX0432,CUST064,Machine Learning,Books,Books,1,574,574,November
+TRX0433,CUST165,Moisturizer,Beauty,Beauty,1,1075,1075,January
+TRX0434,CUST241,Machine Learning,Books,Books,3,574,1722,June
+TRX0435,CUST108,Pillow,Home,Home,4,3485,13940,February
+TRX0436,CUST078,T-Shirt,Fashion,Fashion,3,3271,9813,May
+TRX0437,CUST020,Watch,Fashion,Fashion,1,869,869,July
+TRX0438,CUST035,Face Wash,Beauty,Beauty,3,2658,7974,May
+TRX0439,CUST161,Mouse,Electronics,Electronics,2,3192,6384,December
+TRX0440,CUST234,Web Development,Books,Books,2,1182,2364,August
+TRX0441,CUST043,T-Shirt,Fashion,Fashion,2,3271,6542,September
+TRX0442,CUST039,Chair,Home,Home,3,2533,7599,December
+TRX0443,CUST038,Web Development,Books,Books,4,1182,4728,February
+TRX0444,CUST234,AI Basics,Books,Books,1,4943,4943,January
+TRX0445,CUST247,Moisturizer,Beauty,Beauty,2,1075,2150,May
+TRX0446,CUST239,T-Shirt,Fashion,Fashion,3,3271,9813,July
+TRX0447,CUST218,Chair,Home,Home,2,2533,5066,February
+TRX0448,CUST210,Laptop,Electronics,Electronics,4,3872,15488,August
+TRX0449,CUST113,Data Science,Books,Books,4,3004,12016,September
+TRX0450,CUST046,Python Programming,Books,Books,1,4217,4217,March
+TRX0451,CUST031,Moisturizer,Beauty,Beauty,1,1075,1075,September
+TRX0452,CUST090,AI Basics,Books,Books,2,4943,9886,June
+TRX0453,CUST063,Headphones,Electronics,Electronics,1,960,960,September
+TRX0454,CUST176,Face Wash,Beauty,Beauty,1,2658,2658,September
+TRX0455,CUST203,AI Basics,Books,Books,1,4943,4943,June
+TRX0456,CUST238,Data Science,Books,Books,2,3004,6008,February
+TRX0457,CUST082,Face Wash,Beauty,Beauty,3,2658,7974,March
+TRX0458,CUST109,Table,Home,Home,4,2491,9964,June
+TRX0459,CUST199,Smartphone,Electronics,Electronics,3,4526,13578,January
+TRX0460,CUST076,Watch,Fashion,Fashion,3,869,2607,December
+TRX0461,CUST093,Headphones,Electronics,Electronics,1,960,960,January
+TRX0462,CUST035,AI Basics,Books,Books,3,4943,14829,March
+TRX0463,CUST200,Jeans,Fashion,Fashion,2,3019,6038,September
+TRX0464,CUST003,Shampoo,Beauty,Beauty,4,2147,8588,February
+TRX0465,CUST198,Web Development,Books,Books,1,1182,1182,October
+TRX0466,CUST153,Web Development,Books,Books,2,1182,2364,May
+TRX0467,CUST207,Machine Learning,Books,Books,3,574,1722,November
+TRX0468,CUST176,Jacket,Fashion,Fashion,3,1785,5355,November
+TRX0469,CUST237,Perfume,Beauty,Beauty,3,2847,8541,July
+TRX0470,CUST080,Moisturizer,Beauty,Beauty,3,1075,3225,September
+TRX0471,CUST036,Lamp,Home,Home,3,1284,3852,April
+TRX0472,CUST021,Shampoo,Beauty,Beauty,3,2147,6441,February
+TRX0473,CUST078,Moisturizer,Beauty,Beauty,4,1075,4300,May
+TRX0474,CUST052,Pillow,Home,Home,3,3485,10455,December
+TRX0475,CUST035,Jacket,Fashion,Fashion,2,1785,3570,February
+TRX0476,CUST002,Smartphone,Electronics,Electronics,4,4526,18104,October
+TRX0477,CUST089,Bedsheet,Home,Home,2,4655,9310,July
+TRX0478,CUST141,Laptop,Electronics,Electronics,1,3872,3872,October
+TRX0479,CUST184,Machine Learning,Books,Books,4,574,2296,June
+TRX0480,CUST007,Keyboard,Electronics,Electronics,4,566,2264,October
+TRX0481,CUST047,Pillow,Home,Home,3,3485,10455,June
+TRX0482,CUST118,Shampoo,Beauty,Beauty,4,2147,8588,September
+TRX0483,CUST026,Laptop,Electronics,Electronics,4,3872,15488,October
+TRX0484,CUST121,Shampoo,Beauty,Beauty,4,2147,8588,August
+TRX0485,CUST208,Laptop,Electronics,Electronics,3,3872,11616,May
+TRX0486,CUST068,Shoes,Fashion,Fashion,4,230,920,December
+TRX0487,CUST167,T-Shirt,Fashion,Fashion,2,3271,6542,March
+TRX0488,CUST164,T-Shirt,Fashion,Fashion,3,3271,9813,February
+TRX0489,CUST069,Mouse,Electronics,Electronics,4,3192,12768,February
+TRX0490,CUST161,Face Wash,Beauty,Beauty,2,2658,5316,May
+TRX0491,CUST143,Bedsheet,Home,Home,3,4655,13965,November
+TRX0492,CUST138,Smartwatch,Electronics,Electronics,1,3544,3544,September
+TRX0493,CUST153,Shoes,Fashion,Fashion,3,230,690,May
+TRX0494,CUST146,Chair,Home,Home,2,2533,5066,July
+TRX0495,CUST169,Mouse,Electronics,Electronics,3,3192,9576,August
+TRX0496,CUST188,Bedsheet,Home,Home,2,4655,9310,June
+TRX0497,CUST042,Shampoo,Beauty,Beauty,4,2147,8588,August
+TRX0498,CUST229,Keyboard,Electronics,Electronics,3,566,1698,September
+TRX0499,CUST136,Mouse,Electronics,Electronics,2,3192,6384,September
+TRX0500,CUST231,Web Development,Books,Books,1,1182,1182,December
+TRX0501,CUST130,Web Development,Books,Books,4,1182,4728,November
+TRX0502,CUST160,Moisturizer,Beauty,Beauty,2,1075,2150,August
+TRX0503,CUST050,Bedsheet,Home,Home,1,4655,4655,October
+TRX0504,CUST003,Jacket,Fashion,Fashion,2,1785,3570,June
+TRX0505,CUST209,Chair,Home,Home,3,2533,7599,April
+TRX0506,CUST008,AI Basics,Books,Books,4,4943,19772,May
+TRX0507,CUST077,Perfume,Beauty,Beauty,3,2847,8541,September
+TRX0508,CUST055,T-Shirt,Fashion,Fashion,3,3271,9813,December
+TRX0509,CUST145,Machine Learning,Books,Books,3,574,1722,July
+TRX0510,CUST092,Pillow,Home,Home,4,3485,13940,August
+TRX0511,CUST248,Python Programming,Books,Books,1,4217,4217,May
+TRX0512,CUST084,T-Shirt,Fashion,Fashion,1,3271,3271,December
+TRX0513,CUST038,AI Basics,Books,Books,1,4943,4943,April
+TRX0514,CUST225,Watch,Fashion,Fashion,2,869,1738,September
+TRX0515,CUST085,Shoes,Fashion,Fashion,1,230,230,September
+TRX0516,CUST193,Lamp,Home,Home,4,1284,5136,July
+TRX0517,CUST154,AI Basics,Books,Books,3,4943,14829,June
+TRX0518,CUST163,Bedsheet,Home,Home,1,4655,4655,April
+TRX0519,CUST234,Python Programming,Books,Books,2,4217,8434,June
+TRX0520,CUST082,Perfume,Beauty,Beauty,2,2847,5694,August
+TRX0521,CUST234,Bedsheet,Home,Home,2,4655,9310,September
+TRX0522,CUST143,Perfume,Beauty,Beauty,2,2847,5694,November
+TRX0523,CUST130,Chair,Home,Home,2,2533,5066,April
+TRX0524,CUST210,T-Shirt,Fashion,Fashion,2,3271,6542,September
+TRX0525,CUST054,Keyboard,Electronics,Electronics,3,566,1698,January
+TRX0526,CUST110,Moisturizer,Beauty,Beauty,3,1075,3225,March
+TRX0527,CUST169,Smartphone,Electronics,Electronics,1,4526,4526,February
+TRX0528,CUST136,Shampoo,Beauty,Beauty,4,2147,8588,September
+TRX0529,CUST079,Web Development,Books,Books,4,1182,4728,December
+TRX0530,CUST032,Web Development,Books,Books,3,1182,3546,April
+TRX0531,CUST146,Moisturizer,Beauty,Beauty,3,1075,3225,June
+TRX0532,CUST160,Perfume,Beauty,Beauty,2,2847,5694,February
+TRX0533,CUST060,Lamp,Home,Home,1,1284,1284,March
+TRX0534,CUST162,T-Shirt,Fashion,Fashion,2,3271,6542,November
+TRX0535,CUST178,Perfume,Beauty,Beauty,4,2847,11388,September
+TRX0536,CUST215,Table,Home,Home,3,2491,7473,May
+TRX0537,CUST073,Data Science,Books,Books,3,3004,9012,December
+TRX0538,CUST097,Machine Learning,Books,Books,3,574,1722,August
+TRX0539,CUST017,Perfume,Beauty,Beauty,4,2847,11388,April
+TRX0540,CUST221,Machine Learning,Books,Books,4,574,2296,June
+TRX0541,CUST231,Watch,Fashion,Fashion,4,869,3476,March
+TRX0542,CUST007,Bedsheet,Home,Home,2,4655,9310,July
+TRX0543,CUST229,Shampoo,Beauty,Beauty,1,2147,2147,July
+TRX0544,CUST130,Pillow,Home,Home,2,3485,6970,June
+TRX0545,CUST079,Shampoo,Beauty,Beauty,3,2147,6441,October
+TRX0546,CUST120,Face Wash,Beauty,Beauty,1,2658,2658,May
+TRX0547,CUST218,Watch,Fashion,Fashion,1,869,869,May
+TRX0548,CUST082,Face Wash,Beauty,Beauty,4,2658,10632,April
+TRX0549,CUST209,Table,Home,Home,4,2491,9964,November
+TRX0550,CUST191,Moisturizer,Beauty,Beauty,4,1075,4300,July
+TRX0551,CUST117,Jacket,Fashion,Fashion,2,1785,3570,April
+TRX0552,CUST112,AI Basics,Books,Books,4,4943,19772,March
+TRX0553,CUST233,Moisturizer,Beauty,Beauty,1,1075,1075,June
+TRX0554,CUST042,Shampoo,Beauty,Beauty,1,2147,2147,January
+TRX0555,CUST105,Headphones,Electronics,Electronics,1,960,960,January
+TRX0556,CUST130,Web Development,Books,Books,1,1182,1182,October
+TRX0557,CUST242,Jacket,Fashion,Fashion,4,1785,7140,May
+TRX0558,CUST028,Chair,Home,Home,4,2533,10132,November
+TRX0559,CUST214,Headphones,Electronics,Electronics,4,960,3840,July
+TRX0560,CUST088,Perfume,Beauty,Beauty,1,2847,2847,December
+TRX0561,CUST193,Moisturizer,Beauty,Beauty,1,1075,1075,August
+TRX0562,CUST249,Table,Home,Home,1,2491,2491,March
+TRX0563,CUST152,Table,Home,Home,1,2491,2491,April
+TRX0564,CUST021,Jacket,Fashion,Fashion,3,1785,5355,April
+TRX0565,CUST143,Lamp,Home,Home,4,1284,5136,March
+TRX0566,CUST235,Watch,Fashion,Fashion,1,869,869,June
+TRX0567,CUST096,Jacket,Fashion,Fashion,1,1785,1785,August
+TRX0568,CUST104,Headphones,Electronics,Electronics,2,960,1920,February
+TRX0569,CUST195,Keyboard,Electronics,Electronics,2,566,1132,April
+TRX0570,CUST078,Headphones,Electronics,Electronics,1,960,960,October
+TRX0571,CUST119,Jeans,Fashion,Fashion,1,3019,3019,April
+TRX0572,CUST140,Chair,Home,Home,2,2533,5066,May
+TRX0573,CUST160,AI Basics,Books,Books,3,4943,14829,October
+TRX0574,CUST015,Laptop,Electronics,Electronics,3,3872,11616,September
+TRX0575,CUST153,Bedsheet,Home,Home,2,4655,9310,September
+TRX0576,CUST114,Machine Learning,Books,Books,1,574,574,December
+TRX0577,CUST032,Table,Home,Home,4,2491,9964,May
+TRX0578,CUST227,T-Shirt,Fashion,Fashion,4,3271,13084,September
+TRX0579,CUST175,Watch,Fashion,Fashion,1,869,869,May
+TRX0580,CUST126,Data Science,Books,Books,4,3004,12016,June
+TRX0581,CUST150,Table,Home,Home,2,2491,4982,December
+TRX0582,CUST029,Shampoo,Beauty,Beauty,2,2147,4294,May
+TRX0583,CUST207,Data Science,Books,Books,2,3004,6008,March
+TRX0584,CUST151,Web Development,Books,Books,2,1182,2364,November
+TRX0585,CUST165,Face Wash,Beauty,Beauty,4,2658,10632,March
+TRX0586,CUST191,Pillow,Home,Home,2,3485,6970,July
+TRX0587,CUST108,Smartphone,Electronics,Electronics,3,4526,13578,August
+TRX0588,CUST106,T-Shirt,Fashion,Fashion,4,3271,13084,May
+TRX0589,CUST003,Keyboard,Electronics,Electronics,4,566,2264,March
+TRX0590,CUST224,Jeans,Fashion,Fashion,3,3019,9057,September
+TRX0591,CUST010,Moisturizer,Beauty,Beauty,2,1075,2150,July
+TRX0592,CUST219,Chair,Home,Home,1,2533,2533,September
+TRX0593,CUST244,AI Basics,Books,Books,2,4943,9886,October
+TRX0594,CUST054,Python Programming,Books,Books,2,4217,8434,September
+TRX0595,CUST162,Face Wash,Beauty,Beauty,4,2658,10632,November
+TRX0596,CUST144,Lamp,Home,Home,1,1284,1284,October
+TRX0597,CUST132,Moisturizer,Beauty,Beauty,4,1075,4300,October
+TRX0598,CUST024,Chair,Home,Home,1,2533,2533,June
+TRX0599,CUST213,Shampoo,Beauty,Beauty,2,2147,4294,April
+TRX0600,CUST188,Smartphone,Electronics,Electronics,4,4526,18104,January
+TRX0601,CUST119,Web Development,Books,Books,2,1182,2364,March
+TRX0602,CUST216,Moisturizer,Beauty,Beauty,2,1075,2150,July
+TRX0603,CUST244,AI Basics,Books,Books,2,4943,9886,February
+TRX0604,CUST147,Machine Learning,Books,Books,3,574,1722,January
+TRX0605,CUST063,Pillow,Home,Home,4,3485,13940,October
+TRX0606,CUST230,Perfume,Beauty,Beauty,4,2847,11388,March
+TRX0607,CUST176,Moisturizer,Beauty,Beauty,2,1075,2150,July
+TRX0608,CUST113,Laptop,Electronics,Electronics,3,3872,11616,April
+TRX0609,CUST113,Bedsheet,Home,Home,3,4655,13965,November
+TRX0610,CUST057,Web Development,Books,Books,1,1182,1182,January
+TRX0611,CUST198,Machine Learning,Books,Books,4,574,2296,November
+TRX0612,CUST143,Data Science,Books,Books,3,3004,9012,September
+TRX0613,CUST090,Face Wash,Beauty,Beauty,4,2658,10632,October
+TRX0614,CUST050,Pillow,Home,Home,3,3485,10455,January
+TRX0615,CUST094,Shampoo,Beauty,Beauty,1,2147,2147,November
+TRX0616,CUST109,Pillow,Home,Home,3,3485,10455,October
+TRX0617,CUST035,Shoes,Fashion,Fashion,1,230,230,May
+TRX0618,CUST212,Smartphone,Electronics,Electronics,2,4526,9052,May
+TRX0619,CUST100,Jacket,Fashion,Fashion,2,1785,3570,July
+TRX0620,CUST039,Shoes,Fashion,Fashion,1,230,230,August
+TRX0621,CUST057,Python Programming,Books,Books,2,4217,8434,December
+TRX0622,CUST108,Python Programming,Books,Books,3,4217,12651,April
+TRX0623,CUST152,Keyboard,Electronics,Electronics,1,566,566,August
+TRX0624,CUST108,Jacket,Fashion,Fashion,3,1785,5355,March
+TRX0625,CUST183,AI Basics,Books,Books,4,4943,19772,June
+TRX0626,CUST223,T-Shirt,Fashion,Fashion,1,3271,3271,June
+TRX0627,CUST044,Smartphone,Electronics,Electronics,4,4526,18104,August
+TRX0628,CUST107,AI Basics,Books,Books,2,4943,9886,November
+TRX0629,CUST185,Moisturizer,Beauty,Beauty,2,1075,2150,January
+TRX0630,CUST219,Shoes,Fashion,Fashion,4,230,920,August
+TRX0631,CUST143,Shampoo,Beauty,Beauty,2,2147,4294,December
+TRX0632,CUST120,Smartphone,Electronics,Electronics,2,4526,9052,May
+TRX0633,CUST082,Perfume,Beauty,Beauty,3,2847,8541,October
+TRX0634,CUST165,Mouse,Electronics,Electronics,3,3192,9576,September
+TRX0635,CUST085,Python Programming,Books,Books,1,4217,4217,September
+TRX0636,CUST161,Watch,Fashion,Fashion,4,869,3476,October
+TRX0637,CUST249,Headphones,Electronics,Electronics,4,960,3840,February
+TRX0638,CUST028,Shoes,Fashion,Fashion,1,230,230,July
+TRX0639,CUST086,Headphones,Electronics,Electronics,2,960,1920,June
+TRX0640,CUST238,T-Shirt,Fashion,Fashion,2,3271,6542,May
+TRX0641,CUST005,T-Shirt,Fashion,Fashion,2,3271,6542,October
+TRX0642,CUST098,Pillow,Home,Home,3,3485,10455,June
+TRX0643,CUST076,Data Science,Books,Books,2,3004,6008,March
+TRX0644,CUST192,Table,Home,Home,4,2491,9964,July
+TRX0645,CUST021,AI Basics,Books,Books,3,4943,14829,April
+TRX0646,CUST110,Web Development,Books,Books,3,1182,3546,June
+TRX0647,CUST116,Data Science,Books,Books,1,3004,3004,September
+TRX0648,CUST168,Jacket,Fashion,Fashion,2,1785,3570,January
+TRX0649,CUST191,T-Shirt,Fashion,Fashion,4,3271,13084,March
+TRX0650,CUST200,Python Programming,Books,Books,2,4217,8434,April
+TRX0651,CUST227,Python Programming,Books,Books,3,4217,12651,February
+TRX0652,CUST171,Pillow,Home,Home,3,3485,10455,November
+TRX0653,CUST248,AI Basics,Books,Books,4,4943,19772,August
+TRX0654,CUST220,Keyboard,Electronics,Electronics,1,566,566,May
+TRX0655,CUST072,Smartwatch,Electronics,Electronics,4,3544,14176,February
+TRX0656,CUST042,Machine Learning,Books,Books,2,574,1148,December
+TRX0657,CUST130,Pillow,Home,Home,3,3485,10455,November
+TRX0658,CUST114,Table,Home,Home,4,2491,9964,January
+TRX0659,CUST247,Moisturizer,Beauty,Beauty,4,1075,4300,November
+TRX0660,CUST101,Data Science,Books,Books,4,3004,12016,September
+TRX0661,CUST012,Table,Home,Home,3,2491,7473,July
+TRX0662,CUST245,Shampoo,Beauty,Beauty,1,2147,2147,February
+TRX0663,CUST004,AI Basics,Books,Books,3,4943,14829,November
+TRX0664,CUST247,Pillow,Home,Home,1,3485,3485,March
+TRX0665,CUST097,Python Programming,Books,Books,4,4217,16868,February
+TRX0666,CUST154,Perfume,Beauty,Beauty,1,2847,2847,December
+TRX0667,CUST221,Keyboard,Electronics,Electronics,2,566,1132,February
+TRX0668,CUST134,Bedsheet,Home,Home,4,4655,18620,September
+TRX0669,CUST139,Jacket,Fashion,Fashion,4,1785,7140,September
+TRX0670,CUST213,Shoes,Fashion,Fashion,4,230,920,December
+TRX0671,CUST030,Watch,Fashion,Fashion,4,869,3476,August
+TRX0672,CUST218,Smartphone,Electronics,Electronics,3,4526,13578,April
+TRX0673,CUST034,Mouse,Electronics,Electronics,3,3192,9576,February
+TRX0674,CUST058,Table,Home,Home,3,2491,7473,June
+TRX0675,CUST017,Moisturizer,Beauty,Beauty,3,1075,3225,November
+TRX0676,CUST163,Keyboard,Electronics,Electronics,1,566,566,February
+TRX0677,CUST066,Bedsheet,Home,Home,3,4655,13965,July
+TRX0678,CUST198,Keyboard,Electronics,Electronics,4,566,2264,January
+TRX0679,CUST200,Bedsheet,Home,Home,2,4655,9310,September
+TRX0680,CUST047,Perfume,Beauty,Beauty,1,2847,2847,May
+TRX0681,CUST181,Machine Learning,Books,Books,4,574,2296,January
+TRX0682,CUST039,Mouse,Electronics,Electronics,4,3192,12768,February
+TRX0683,CUST115,Smartwatch,Electronics,Electronics,3,3544,10632,November
+TRX0684,CUST151,Lamp,Home,Home,2,1284,2568,August
+TRX0685,CUST046,Web Development,Books,Books,4,1182,4728,March
+TRX0686,CUST147,Bedsheet,Home,Home,1,4655,4655,September
+TRX0687,CUST168,T-Shirt,Fashion,Fashion,3,3271,9813,March
+TRX0688,CUST131,Shoes,Fashion,Fashion,1,230,230,December
+TRX0689,CUST212,Perfume,Beauty,Beauty,2,2847,5694,September
+TRX0690,CUST124,Keyboard,Electronics,Electronics,3,566,1698,April
+TRX0691,CUST142,Face Wash,Beauty,Beauty,4,2658,10632,August
+TRX0692,CUST209,Headphones,Electronics,Electronics,4,960,3840,April
+TRX0693,CUST089,Pillow,Home,Home,3,3485,10455,September
+TRX0694,CUST187,Keyboard,Electronics,Electronics,3,566,1698,April
+TRX0695,CUST220,T-Shirt,Fashion,Fashion,1,3271,3271,June
+TRX0696,CUST169,Shampoo,Beauty,Beauty,1,2147,2147,December
+TRX0697,CUST035,Chair,Home,Home,1,2533,2533,May
+TRX0698,CUST069,Web Development,Books,Books,3,1182,3546,December
+TRX0699,CUST161,Face Wash,Beauty,Beauty,1,2658,2658,September
+TRX0700,CUST068,Table,Home,Home,2,2491,4982,August
+TRX0701,CUST224,Smartphone,Electronics,Electronics,3,4526,13578,August
+TRX0702,CUST076,Python Programming,Books,Books,3,4217,12651,October
+TRX0703,CUST052,Shampoo,Beauty,Beauty,4,2147,8588,May
+TRX0704,CUST051,Python Programming,Books,Books,1,4217,4217,March
+TRX0705,CUST132,Machine Learning,Books,Books,4,574,2296,June
+TRX0706,CUST076,Perfume,Beauty,Beauty,2,2847,5694,December
+TRX0707,CUST194,Shoes,Fashion,Fashion,3,230,690,September
+TRX0708,CUST001,Laptop,Electronics,Electronics,1,3872,3872,December
+TRX0709,CUST006,Shoes,Fashion,Fashion,4,230,920,March
+TRX0710,CUST124,T-Shirt,Fashion,Fashion,1,3271,3271,January
+TRX0711,CUST099,Pillow,Home,Home,4,3485,13940,August
+TRX0712,CUST177,Face Wash,Beauty,Beauty,2,2658,5316,January
+TRX0713,CUST046,Smartwatch,Electronics,Electronics,4,3544,14176,November
+TRX0714,CUST148,Python Programming,Books,Books,2,4217,8434,July
+TRX0715,CUST085,Face Wash,Beauty,Beauty,4,2658,10632,October
+TRX0716,CUST107,Headphones,Electronics,Electronics,4,960,3840,May
+TRX0717,CUST049,Headphones,Electronics,Electronics,4,960,3840,May
+TRX0718,CUST051,Table,Home,Home,3,2491,7473,November
+TRX0719,CUST238,Lamp,Home,Home,1,1284,1284,January
+TRX0720,CUST168,Data Science,Books,Books,4,3004,12016,August
+TRX0721,CUST200,Face Wash,Beauty,Beauty,1,2658,2658,December
+TRX0722,CUST189,Smartphone,Electronics,Electronics,2,4526,9052,July
+TRX0723,CUST220,Watch,Fashion,Fashion,4,869,3476,September
+TRX0724,CUST091,Perfume,Beauty,Beauty,3,2847,8541,January
+TRX0725,CUST175,AI Basics,Books,Books,2,4943,9886,February
+TRX0726,CUST068,Keyboard,Electronics,Electronics,2,566,1132,May
+TRX0727,CUST147,Machine Learning,Books,Books,1,574,574,January
+TRX0728,CUST076,Shoes,Fashion,Fashion,3,230,690,September
+TRX0729,CUST167,Watch,Fashion,Fashion,1,869,869,October
+TRX0730,CUST194,Lamp,Home,Home,1,1284,1284,October
+TRX0731,CUST142,Shoes,Fashion,Fashion,2,230,460,September
+TRX0732,CUST121,Data Science,Books,Books,4,3004,12016,June
+TRX0733,CUST155,Shampoo,Beauty,Beauty,1,2147,2147,June
+TRX0734,CUST131,T-Shirt,Fashion,Fashion,1,3271,3271,December
+TRX0735,CUST163,Table,Home,Home,3,2491,7473,October
+TRX0736,CUST101,Shampoo,Beauty,Beauty,1,2147,2147,September
+TRX0737,CUST023,Smartwatch,Electronics,Electronics,4,3544,14176,May
+TRX0738,CUST182,Chair,Home,Home,4,2533,10132,March
+TRX0739,CUST173,Smartphone,Electronics,Electronics,2,4526,9052,October
+TRX0740,CUST030,Machine Learning,Books,Books,2,574,1148,March
+TRX0741,CUST195,Machine Learning,Books,Books,3,574,1722,September
+TRX0742,CUST063,Chair,Home,Home,3,2533,7599,September
+TRX0743,CUST118,Machine Learning,Books,Books,1,574,574,August
+TRX0744,CUST167,Jacket,Fashion,Fashion,1,1785,1785,July
+TRX0745,CUST196,Moisturizer,Beauty,Beauty,1,1075,1075,January
+TRX0746,CUST047,Data Science,Books,Books,1,3004,3004,October
+TRX0747,CUST188,Jacket,Fashion,Fashion,3,1785,5355,November
+TRX0748,CUST239,Lamp,Home,Home,1,1284,1284,January
+TRX0749,CUST038,Moisturizer,Beauty,Beauty,2,1075,2150,April
+TRX0750,CUST184,Python Programming,Books,Books,3,4217,12651,April
+TRX0751,CUST113,Shampoo,Beauty,Beauty,1,2147,2147,August
+TRX0752,CUST088,Lamp,Home,Home,3,1284,3852,April
+TRX0753,CUST154,Lamp,Home,Home,4,1284,5136,November
+TRX0754,CUST234,Chair,Home,Home,2,2533,5066,November
+TRX0755,CUST125,Shampoo,Beauty,Beauty,2,2147,4294,May
+TRX0756,CUST122,Face Wash,Beauty,Beauty,2,2658,5316,December
+TRX0757,CUST101,Bedsheet,Home,Home,2,4655,9310,December
+TRX0758,CUST201,Smartphone,Electronics,Electronics,1,4526,4526,November
+TRX0759,CUST175,Python Programming,Books,Books,1,4217,4217,June
+TRX0760,CUST068,Face Wash,Beauty,Beauty,1,2658,2658,January
+TRX0761,CUST141,Watch,Fashion,Fashion,2,869,1738,May
+TRX0762,CUST123,Lamp,Home,Home,2,1284,2568,February
+TRX0763,CUST160,Perfume,Beauty,Beauty,2,2847,5694,January
+TRX0764,CUST085,Web Development,Books,Books,4,1182,4728,November
+TRX0765,CUST103,Data Science,Books,Books,1,3004,3004,December
+TRX0766,CUST191,Perfume,Beauty,Beauty,1,2847,2847,February
+TRX0767,CUST139,Data Science,Books,Books,1,3004,3004,January
+TRX0768,CUST099,AI Basics,Books,Books,4,4943,19772,June
+TRX0769,CUST249,Shoes,Fashion,Fashion,1,230,230,July
+TRX0770,CUST085,Web Development,Books,Books,1,1182,1182,May
+TRX0771,CUST164,Lamp,Home,Home,1,1284,1284,February
+TRX0772,CUST011,Perfume,Beauty,Beauty,4,2847,11388,June
+TRX0773,CUST149,Bedsheet,Home,Home,1,4655,4655,January
+TRX0774,CUST184,Python Programming,Books,Books,2,4217,8434,October
+TRX0775,CUST012,Mouse,Electronics,Electronics,3,3192,9576,October
+TRX0776,CUST048,Machine Learning,Books,Books,4,574,2296,June
+TRX0777,CUST183,Jacket,Fashion,Fashion,2,1785,3570,November
+TRX0778,CUST161,Lamp,Home,Home,4,1284,5136,September
+TRX0779,CUST243,T-Shirt,Fashion,Fashion,3,3271,9813,May
+TRX0780,CUST206,Chair,Home,Home,4,2533,10132,March
+TRX0781,CUST175,Web Development,Books,Books,3,1182,3546,September
+TRX0782,CUST072,Web Development,Books,Books,1,1182,1182,January
+TRX0783,CUST113,Mouse,Electronics,Electronics,3,3192,9576,June
+TRX0784,CUST067,Pillow,Home,Home,1,3485,3485,July
+TRX0785,CUST208,Watch,Fashion,Fashion,2,869,1738,November
+TRX0786,CUST067,Jeans,Fashion,Fashion,4,3019,12076,May
+TRX0787,CUST208,AI Basics,Books,Books,1,4943,4943,August
+TRX0788,CUST035,Smartwatch,Electronics,Electronics,3,3544,10632,March
+TRX0789,CUST019,Jeans,Fashion,Fashion,1,3019,3019,August
+TRX0790,CUST071,Table,Home,Home,4,2491,9964,September
+TRX0791,CUST037,Smartphone,Electronics,Electronics,1,4526,4526,August
+TRX0792,CUST136,Moisturizer,Beauty,Beauty,4,1075,4300,September
+TRX0793,CUST127,Keyboard,Electronics,Electronics,3,566,1698,February
+TRX0794,CUST191,Laptop,Electronics,Electronics,2,3872,7744,April
+TRX0795,CUST158,Lamp,Home,Home,4,1284,5136,March
+TRX0796,CUST142,Web Development,Books,Books,1,1182,1182,February
+TRX0797,CUST045,Perfume,Beauty,Beauty,3,2847,8541,June
+TRX0798,CUST016,T-Shirt,Fashion,Fashion,3,3271,9813,February
+TRX0799,CUST234,Machine Learning,Books,Books,2,574,1148,February
+TRX0800,CUST218,Moisturizer,Beauty,Beauty,3,1075,3225,December
+TRX0801,CUST034,Lamp,Home,Home,2,1284,2568,July
+TRX0802,CUST053,Headphones,Electronics,Electronics,1,960,960,May
+TRX0803,CUST013,Perfume,Beauty,Beauty,1,2847,2847,March
+TRX0804,CUST057,Smartwatch,Electronics,Electronics,3,3544,10632,January
+TRX0805,CUST183,Jeans,Fashion,Fashion,4,3019,12076,August
+TRX0806,CUST054,Machine Learning,Books,Books,4,574,2296,February
+TRX0807,CUST014,Jacket,Fashion,Fashion,2,1785,3570,April
+TRX0808,CUST053,Web Development,Books,Books,3,1182,3546,July
+TRX0809,CUST008,Jacket,Fashion,Fashion,3,1785,5355,February
+TRX0810,CUST082,Shoes,Fashion,Fashion,1,230,230,December
+TRX0811,CUST049,Headphones,Electronics,Electronics,2,960,1920,October
+TRX0812,CUST018,Laptop,Electronics,Electronics,4,3872,15488,September
+TRX0813,CUST134,Moisturizer,Beauty,Beauty,1,1075,1075,December
+TRX0814,CUST139,Headphones,Electronics,Electronics,3,960,2880,March
+TRX0815,CUST137,Chair,Home,Home,4,2533,10132,April
+TRX0816,CUST100,Shoes,Fashion,Fashion,1,230,230,March
+TRX0817,CUST177,Data Science,Books,Books,1,3004,3004,January
+TRX0818,CUST186,Watch,Fashion,Fashion,1,869,869,December
+TRX0819,CUST219,Laptop,Electronics,Electronics,3,3872,11616,July
+TRX0820,CUST213,Perfume,Beauty,Beauty,1,2847,2847,May
+TRX0821,CUST161,Data Science,Books,Books,1,3004,3004,April
+TRX0822,CUST175,Smartwatch,Electronics,Electronics,1,3544,3544,May
+TRX0823,CUST084,Lamp,Home,Home,4,1284,5136,May
+TRX0824,CUST042,Smartphone,Electronics,Electronics,2,4526,9052,July
+TRX0825,CUST028,Mouse,Electronics,Electronics,3,3192,9576,February
+TRX0826,CUST206,Bedsheet,Home,Home,1,4655,4655,December
+TRX0827,CUST199,Smartphone,Electronics,Electronics,2,4526,9052,May
+TRX0828,CUST141,AI Basics,Books,Books,4,4943,19772,September
+TRX0829,CUST073,Table,Home,Home,4,2491,9964,July
+TRX0830,CUST173,Shampoo,Beauty,Beauty,1,2147,2147,August
+TRX0831,CUST008,AI Basics,Books,Books,3,4943,14829,December
+TRX0832,CUST070,Machine Learning,Books,Books,1,574,574,December
+TRX0833,CUST232,Keyboard,Electronics,Electronics,1,566,566,December
+TRX0834,CUST235,Pillow,Home,Home,1,3485,3485,January
+TRX0835,CUST118,Watch,Fashion,Fashion,4,869,3476,May
+TRX0836,CUST074,Face Wash,Beauty,Beauty,2,2658,5316,August
+TRX0837,CUST002,Keyboard,Electronics,Electronics,2,566,1132,October
+TRX0838,CUST163,Mouse,Electronics,Electronics,3,3192,9576,June
+TRX0839,CUST017,Machine Learning,Books,Books,4,574,2296,November
+TRX0840,CUST153,AI Basics,Books,Books,4,4943,19772,October
+TRX0841,CUST230,Keyboard,Electronics,Electronics,3,566,1698,December
+TRX0842,CUST016,Keyboard,Electronics,Electronics,2,566,1132,December
+TRX0843,CUST027,Shampoo,Beauty,Beauty,3,2147,6441,September
+TRX0844,CUST162,Shampoo,Beauty,Beauty,3,2147,6441,May
+TRX0845,CUST153,Laptop,Electronics,Electronics,3,3872,11616,April
+TRX0846,CUST057,Data Science,Books,Books,1,3004,3004,April
+TRX0847,CUST205,Data Science,Books,Books,1,3004,3004,November
+TRX0848,CUST008,Headphones,Electronics,Electronics,4,960,3840,August
+TRX0849,CUST045,Bedsheet,Home,Home,4,4655,18620,March
+TRX0850,CUST157,Smartphone,Electronics,Electronics,2,4526,9052,February
+TRX0851,CUST156,Perfume,Beauty,Beauty,4,2847,11388,July
+TRX0852,CUST172,Jacket,Fashion,Fashion,2,1785,3570,August
+TRX0853,CUST137,Moisturizer,Beauty,Beauty,4,1075,4300,April
+TRX0854,CUST178,Bedsheet,Home,Home,2,4655,9310,September
+TRX0855,CUST017,Chair,Home,Home,4,2533,10132,July
+TRX0856,CUST106,Laptop,Electronics,Electronics,1,3872,3872,October
+TRX0857,CUST045,Lamp,Home,Home,1,1284,1284,May
+TRX0858,CUST200,Machine Learning,Books,Books,3,574,1722,November
+TRX0859,CUST065,Keyboard,Electronics,Electronics,2,566,1132,August
+TRX0860,CUST182,Python Programming,Books,Books,3,4217,12651,September
+TRX0861,CUST174,Jeans,Fashion,Fashion,1,3019,3019,February
+TRX0862,CUST005,Machine Learning,Books,Books,1,574,574,November
+TRX0863,CUST248,Laptop,Electronics,Electronics,2,3872,7744,November
+TRX0864,CUST226,Shampoo,Beauty,Beauty,1,2147,2147,May
+TRX0865,CUST134,Jeans,Fashion,Fashion,2,3019,6038,March
+TRX0866,CUST222,Moisturizer,Beauty,Beauty,4,1075,4300,November
+TRX0867,CUST108,Headphones,Electronics,Electronics,4,960,3840,November
+TRX0868,CUST077,Shoes,Fashion,Fashion,3,230,690,December
+TRX0869,CUST236,Keyboard,Electronics,Electronics,3,566,1698,December
+TRX0870,CUST048,Chair,Home,Home,2,2533,5066,September
+TRX0871,CUST076,Pillow,Home,Home,1,3485,3485,February
+TRX0872,CUST019,Jeans,Fashion,Fashion,2,3019,6038,April
+TRX0873,CUST108,Pillow,Home,Home,3,3485,10455,February
+TRX0874,CUST017,Lamp,Home,Home,1,1284,1284,February
+TRX0875,CUST162,Shampoo,Beauty,Beauty,4,2147,8588,April
+TRX0876,CUST239,Mouse,Electronics,Electronics,3,3192,9576,January
+TRX0877,CUST187,AI Basics,Books,Books,2,4943,9886,June
+TRX0878,CUST044,Smartphone,Electronics,Electronics,2,4526,9052,April
+TRX0879,CUST101,Machine Learning,Books,Books,2,574,1148,November
+TRX0880,CUST213,Jacket,Fashion,Fashion,4,1785,7140,February
+TRX0881,CUST055,Pillow,Home,Home,3,3485,10455,September
+TRX0882,CUST093,Bedsheet,Home,Home,1,4655,4655,October
+TRX0883,CUST228,Smartwatch,Electronics,Electronics,4,3544,14176,July
+TRX0884,CUST155,Shoes,Fashion,Fashion,1,230,230,September
+TRX0885,CUST093,Mouse,Electronics,Electronics,4,3192,12768,April
+TRX0886,CUST117,Lamp,Home,Home,1,1284,1284,July
+TRX0887,CUST091,T-Shirt,Fashion,Fashion,2,3271,6542,April
+TRX0888,CUST093,Web Development,Books,Books,3,1182,3546,February
+TRX0889,CUST068,Laptop,Electronics,Electronics,1,3872,3872,October
+TRX0890,CUST154,Moisturizer,Beauty,Beauty,4,1075,4300,July
+TRX0891,CUST010,Lamp,Home,Home,1,1284,1284,September
+TRX0892,CUST133,T-Shirt,Fashion,Fashion,1,3271,3271,June
+TRX0893,CUST098,Face Wash,Beauty,Beauty,1,2658,2658,April
+TRX0894,CUST197,Lamp,Home,Home,1,1284,1284,March
+TRX0895,CUST076,Shoes,Fashion,Fashion,3,230,690,December
+TRX0896,CUST199,Watch,Fashion,Fashion,1,869,869,April
+TRX0897,CUST023,Jacket,Fashion,Fashion,3,1785,5355,February
+TRX0898,CUST116,Face Wash,Beauty,Beauty,4,2658,10632,September
+TRX0899,CUST112,Bedsheet,Home,Home,2,4655,9310,September
+TRX0900,CUST219,AI Basics,Books,Books,3,4943,14829,March
+TRX0901,CUST165,Mouse,Electronics,Electronics,3,3192,9576,August
+TRX0902,CUST027,Moisturizer,Beauty,Beauty,2,1075,2150,August
+TRX0903,CUST024,Jacket,Fashion,Fashion,3,1785,5355,February
+TRX0904,CUST185,Smartphone,Electronics,Electronics,4,4526,18104,April
+TRX0905,CUST023,Face Wash,Beauty,Beauty,3,2658,7974,May
+TRX0906,CUST062,Headphones,Electronics,Electronics,1,960,960,September
+TRX0907,CUST188,Face Wash,Beauty,Beauty,2,2658,5316,August
+TRX0908,CUST135,Face Wash,Beauty,Beauty,4,2658,10632,March
+TRX0909,CUST128,Bedsheet,Home,Home,4,4655,18620,December
+TRX0910,CUST038,Bedsheet,Home,Home,3,4655,13965,September
+TRX0911,CUST197,Perfume,Beauty,Beauty,2,2847,5694,February
+TRX0912,CUST030,Face Wash,Beauty,Beauty,4,2658,10632,November
+TRX0913,CUST179,Smartwatch,Electronics,Electronics,4,3544,14176,November
+TRX0914,CUST047,Web Development,Books,Books,2,1182,2364,May
+TRX0915,CUST200,Mouse,Electronics,Electronics,3,3192,9576,October
+TRX0916,CUST202,Chair,Home,Home,3,2533,7599,September
+TRX0917,CUST209,Chair,Home,Home,2,2533,5066,September
+TRX0918,CUST017,Machine Learning,Books,Books,3,574,1722,September
+TRX0919,CUST123,Face Wash,Beauty,Beauty,2,2658,5316,January
+TRX0920,CUST065,Mouse,Electronics,Electronics,4,3192,12768,January
+TRX0921,CUST233,Shoes,Fashion,Fashion,2,230,460,January
+TRX0922,CUST239,Watch,Fashion,Fashion,2,869,1738,September
+TRX0923,CUST081,Shoes,Fashion,Fashion,1,230,230,September
+TRX0924,CUST141,Machine Learning,Books,Books,1,574,574,March
+TRX0925,CUST081,Keyboard,Electronics,Electronics,4,566,2264,July
+TRX0926,CUST192,Headphones,Electronics,Electronics,3,960,2880,October
+TRX0927,CUST015,Machine Learning,Books,Books,2,574,1148,January
+TRX0928,CUST083,Bedsheet,Home,Home,3,4655,13965,August
+TRX0929,CUST078,T-Shirt,Fashion,Fashion,2,3271,6542,February
+TRX0930,CUST189,Data Science,Books,Books,1,3004,3004,March
+TRX0931,CUST134,Headphones,Electronics,Electronics,1,960,960,August
+TRX0932,CUST083,Face Wash,Beauty,Beauty,1,2658,2658,November
+TRX0933,CUST080,Moisturizer,Beauty,Beauty,4,1075,4300,March
+TRX0934,CUST147,Data Science,Books,Books,3,3004,9012,October
+TRX0935,CUST089,Machine Learning,Books,Books,4,574,2296,July
+TRX0936,CUST002,Table,Home,Home,1,2491,2491,August
+TRX0937,CUST007,Chair,Home,Home,4,2533,10132,July
+TRX0938,CUST083,Chair,Home,Home,4,2533,10132,August
+TRX0939,CUST124,Headphones,Electronics,Electronics,4,960,3840,May
+TRX0940,CUST075,Perfume,Beauty,Beauty,4,2847,11388,January
+TRX0941,CUST134,Smartphone,Electronics,Electronics,1,4526,4526,December
+TRX0942,CUST078,Shampoo,Beauty,Beauty,4,2147,8588,November
+TRX0943,CUST033,T-Shirt,Fashion,Fashion,3,3271,9813,June
+TRX0944,CUST197,Chair,Home,Home,2,2533,5066,July
+TRX0945,CUST196,Smartphone,Electronics,Electronics,4,4526,18104,June
+TRX0946,CUST135,Pillow,Home,Home,4,3485,13940,April
+TRX0947,CUST029,Jeans,Fashion,Fashion,1,3019,3019,September
+TRX0948,CUST136,Watch,Fashion,Fashion,2,869,1738,January
+TRX0949,CUST066,Watch,Fashion,Fashion,4,869,3476,September
+TRX0950,CUST197,Jeans,Fashion,Fashion,4,3019,12076,September
+TRX0951,CUST177,Table,Home,Home,4,2491,9964,July
+TRX0952,CUST131,Jeans,Fashion,Fashion,1,3019,3019,March
+TRX0953,CUST208,Jacket,Fashion,Fashion,4,1785,7140,October
+TRX0954,CUST166,Shoes,Fashion,Fashion,3,230,690,July
+TRX0955,CUST219,Perfume,Beauty,Beauty,2,2847,5694,April
+TRX0956,CUST219,Smartwatch,Electronics,Electronics,4,3544,14176,December
+TRX0957,CUST147,Data Science,Books,Books,3,3004,9012,February
+TRX0958,CUST158,Shampoo,Beauty,Beauty,2,2147,4294,March
+TRX0959,CUST134,Chair,Home,Home,1,2533,2533,January
+TRX0960,CUST096,Mouse,Electronics,Electronics,4,3192,12768,November
+TRX0961,CUST002,Moisturizer,Beauty,Beauty,1,1075,1075,March
+TRX0962,CUST154,Laptop,Electronics,Electronics,1,3872,3872,November
+TRX0963,CUST150,Pillow,Home,Home,3,3485,10455,August
+TRX0964,CUST022,AI Basics,Books,Books,2,4943,9886,September
+TRX0965,CUST237,Python Programming,Books,Books,1,4217,4217,April
+TRX0966,CUST007,Headphones,Electronics,Electronics,4,960,3840,March
+TRX0967,CUST129,Jacket,Fashion,Fashion,1,1785,1785,October
+TRX0968,CUST160,Laptop,Electronics,Electronics,2,3872,7744,November
+TRX0969,CUST054,Shoes,Fashion,Fashion,4,230,920,November
+TRX0970,CUST085,Keyboard,Electronics,Electronics,3,566,1698,April
+TRX0971,CUST093,Table,Home,Home,3,2491,7473,October
+TRX0972,CUST147,Python Programming,Books,Books,3,4217,12651,September
+TRX0973,CUST041,Jeans,Fashion,Fashion,4,3019,12076,August
+TRX0974,CUST039,Smartphone,Electronics,Electronics,3,4526,13578,April
+TRX0975,CUST047,Headphones,Electronics,Electronics,2,960,1920,May
+TRX0976,CUST043,Shoes,Fashion,Fashion,1,230,230,February
+TRX0977,CUST195,T-Shirt,Fashion,Fashion,3,3271,9813,February
+TRX0978,CUST094,Jeans,Fashion,Fashion,2,3019,6038,March
+TRX0979,CUST164,Pillow,Home,Home,4,3485,13940,March
+TRX0980,CUST202,Mouse,Electronics,Electronics,2,3192,6384,August
+TRX0981,CUST179,T-Shirt,Fashion,Fashion,1,3271,3271,June
+TRX0982,CUST107,Headphones,Electronics,Electronics,4,960,3840,December
+TRX0983,CUST097,Face Wash,Beauty,Beauty,2,2658,5316,August
+TRX0984,CUST187,Shampoo,Beauty,Beauty,1,2147,2147,October
+TRX0985,CUST107,Bedsheet,Home,Home,2,4655,9310,October
+TRX0986,CUST168,AI Basics,Books,Books,4,4943,19772,November
+TRX0987,CUST037,AI Basics,Books,Books,2,4943,9886,June
+TRX0988,CUST139,T-Shirt,Fashion,Fashion,1,3271,3271,April
+TRX0989,CUST214,Perfume,Beauty,Beauty,2,2847,5694,August
+TRX0990,CUST068,Python Programming,Books,Books,3,4217,12651,March
+TRX0991,CUST206,T-Shirt,Fashion,Fashion,1,3271,3271,June
+TRX0992,CUST038,Moisturizer,Beauty,Beauty,1,1075,1075,May
+TRX0993,CUST241,Jacket,Fashion,Fashion,1,1785,1785,February
+TRX0994,CUST199,Pillow,Home,Home,3,3485,10455,April
+TRX0995,CUST083,Bedsheet,Home,Home,1,4655,4655,January
+TRX0996,CUST196,Machine Learning,Books,Books,3,574,1722,August
+TRX0997,CUST234,Smartphone,Electronics,Electronics,1,4526,4526,October
+TRX0998,CUST052,Smartphone,Electronics,Electronics,3,4526,13578,July
+TRX0999,CUST096,Moisturizer,Beauty,Beauty,2,1075,2150,October
+TRX1000,CUST177,Jeans,Fashion,Fashion,3,3019,9057,January
+TRX1001,CUST113,Face Wash,Beauty,Beauty,1,2658,2658,June
+TRX1002,CUST243,Perfume,Beauty,Beauty,3,2847,8541,June
+TRX1003,CUST169,Shampoo,Beauty,Beauty,3,2147,6441,January
+TRX1004,CUST076,Table,Home,Home,3,2491,7473,June
+TRX1005,CUST201,Perfume,Beauty,Beauty,1,2847,2847,July
+TRX1006,CUST141,Web Development,Books,Books,1,1182,1182,July
+TRX1007,CUST104,Shampoo,Beauty,Beauty,1,2147,2147,June
+TRX1008,CUST108,T-Shirt,Fashion,Fashion,2,3271,6542,January
+TRX1009,CUST126,Chair,Home,Home,3,2533,7599,October
+TRX1010,CUST138,Data Science,Books,Books,4,3004,12016,February
+TRX1011,CUST201,Jacket,Fashion,Fashion,3,1785,5355,July
+TRX1012,CUST247,Bedsheet,Home,Home,4,4655,18620,August
+TRX1013,CUST107,Face Wash,Beauty,Beauty,3,2658,7974,January
+TRX1014,CUST190,Mouse,Electronics,Electronics,3,3192,9576,October
+TRX1015,CUST168,T-Shirt,Fashion,Fashion,1,3271,3271,February
+TRX1016,CUST098,Pillow,Home,Home,2,3485,6970,January
+TRX1017,CUST162,Moisturizer,Beauty,Beauty,3,1075,3225,January
+TRX1018,CUST245,Face Wash,Beauty,Beauty,3,2658,7974,August
+TRX1019,CUST026,Smartphone,Electronics,Electronics,1,4526,4526,October
+TRX1020,CUST049,Chair,Home,Home,1,2533,2533,July
+TRX1021,CUST053,Headphones,Electronics,Electronics,2,960,1920,January
+TRX1022,CUST171,Mouse,Electronics,Electronics,1,3192,3192,March
+TRX1023,CUST207,Face Wash,Beauty,Beauty,3,2658,7974,October
+TRX1024,CUST124,Smartwatch,Electronics,Electronics,4,3544,14176,September
+TRX1025,CUST120,Smartphone,Electronics,Electronics,1,4526,4526,June
+TRX1026,CUST080,Mouse,Electronics,Electronics,4,3192,12768,March
+TRX1027,CUST118,Smartwatch,Electronics,Electronics,1,3544,3544,March
+TRX1028,CUST147,T-Shirt,Fashion,Fashion,1,3271,3271,March
+TRX1029,CUST139,Shampoo,Beauty,Beauty,2,2147,4294,September
+TRX1030,CUST232,Shoes,Fashion,Fashion,4,230,920,February
+TRX1031,CUST224,Python Programming,Books,Books,4,4217,16868,April
+TRX1032,CUST079,Machine Learning,Books,Books,1,574,574,January
+TRX1033,CUST173,Jeans,Fashion,Fashion,1,3019,3019,June
+TRX1034,CUST079,Web Development,Books,Books,3,1182,3546,October
+TRX1035,CUST221,Lamp,Home,Home,3,1284,3852,June
+TRX1036,CUST206,Bedsheet,Home,Home,3,4655,13965,December
+TRX1037,CUST116,Chair,Home,Home,3,2533,7599,November
+TRX1038,CUST096,Lamp,Home,Home,2,1284,2568,January
+TRX1039,CUST137,Machine Learning,Books,Books,2,574,1148,August
+TRX1040,CUST207,Keyboard,Electronics,Electronics,4,566,2264,September
+TRX1041,CUST250,Watch,Fashion,Fashion,4,869,3476,July
+TRX1042,CUST224,Jacket,Fashion,Fashion,1,1785,1785,March
+TRX1043,CUST229,Bedsheet,Home,Home,1,4655,4655,November
+TRX1044,CUST071,Python Programming,Books,Books,3,4217,12651,December
+TRX1045,CUST134,Shampoo,Beauty,Beauty,1,2147,2147,July
+TRX1046,CUST223,Pillow,Home,Home,4,3485,13940,October
+TRX1047,CUST036,Watch,Fashion,Fashion,1,869,869,June
+TRX1048,CUST062,Jacket,Fashion,Fashion,2,1785,3570,November
+TRX1049,CUST054,Table,Home,Home,4,2491,9964,November
+TRX1050,CUST130,AI Basics,Books,Books,4,4943,19772,November
+TRX1051,CUST207,Laptop,Electronics,Electronics,2,3872,7744,February
+TRX1052,CUST140,Chair,Home,Home,3,2533,7599,February
+TRX1053,CUST062,Smartwatch,Electronics,Electronics,2,3544,7088,September
+TRX1054,CUST239,Lamp,Home,Home,2,1284,2568,January
+TRX1055,CUST222,Moisturizer,Beauty,Beauty,4,1075,4300,May
+TRX1056,CUST122,Perfume,Beauty,Beauty,4,2847,11388,July
+TRX1057,CUST022,Watch,Fashion,Fashion,3,869,2607,April
+TRX1058,CUST224,AI Basics,Books,Books,1,4943,4943,April
+TRX1059,CUST204,Keyboard,Electronics,Electronics,4,566,2264,January
+TRX1060,CUST165,Face Wash,Beauty,Beauty,4,2658,10632,March
+TRX1061,CUST079,Moisturizer,Beauty,Beauty,4,1075,4300,February
+TRX1062,CUST176,Smartwatch,Electronics,Electronics,3,3544,10632,August
+TRX1063,CUST232,Perfume,Beauty,Beauty,4,2847,11388,June
+TRX1064,CUST146,Shoes,Fashion,Fashion,1,230,230,June
+TRX1065,CUST125,Bedsheet,Home,Home,4,4655,18620,November
+TRX1066,CUST189,Pillow,Home,Home,2,3485,6970,March
+TRX1067,CUST109,Lamp,Home,Home,3,1284,3852,January
+TRX1068,CUST035,Data Science,Books,Books,3,3004,9012,May
+TRX1069,CUST243,Bedsheet,Home,Home,4,4655,18620,May
+TRX1070,CUST035,T-Shirt,Fashion,Fashion,4,3271,13084,April
+TRX1071,CUST160,Chair,Home,Home,3,2533,7599,March
+TRX1072,CUST208,Face Wash,Beauty,Beauty,1,2658,2658,October
+TRX1073,CUST083,Keyboard,Electronics,Electronics,1,566,566,March
+TRX1074,CUST171,Jeans,Fashion,Fashion,1,3019,3019,November
+TRX1075,CUST153,Data Science,Books,Books,3,3004,9012,August
+TRX1076,CUST139,Jacket,Fashion,Fashion,1,1785,1785,November
+TRX1077,CUST133,Pillow,Home,Home,4,3485,13940,February
+TRX1078,CUST132,Laptop,Electronics,Electronics,4,3872,15488,June
+TRX1079,CUST153,Lamp,Home,Home,1,1284,1284,February
+TRX1080,CUST155,Shoes,Fashion,Fashion,1,230,230,December
+TRX1081,CUST133,Mouse,Electronics,Electronics,3,3192,9576,September
+TRX1082,CUST233,Shoes,Fashion,Fashion,1,230,230,July
+TRX1083,CUST004,Keyboard,Electronics,Electronics,2,566,1132,June
+TRX1084,CUST242,Smartphone,Electronics,Electronics,2,4526,9052,February
+TRX1085,CUST148,T-Shirt,Fashion,Fashion,3,3271,9813,November
+TRX1086,CUST043,Machine Learning,Books,Books,2,574,1148,June
+TRX1087,CUST131,AI Basics,Books,Books,2,4943,9886,February
+TRX1088,CUST037,Smartwatch,Electronics,Electronics,2,3544,7088,April
+TRX1089,CUST182,Shoes,Fashion,Fashion,4,230,920,December
+TRX1090,CUST168,Bedsheet,Home,Home,4,4655,18620,August
+TRX1091,CUST218,Keyboard,Electronics,Electronics,4,566,2264,July
+TRX1092,CUST144,Pillow,Home,Home,3,3485,10455,August
+TRX1093,CUST176,Pillow,Home,Home,3,3485,10455,August
+TRX1094,CUST073,Lamp,Home,Home,4,1284,5136,May
+TRX1095,CUST234,Headphones,Electronics,Electronics,4,960,3840,May
+TRX1096,CUST222,Machine Learning,Books,Books,3,574,1722,May
+TRX1097,CUST119,Python Programming,Books,Books,1,4217,4217,October
+TRX1098,CUST094,Perfume,Beauty,Beauty,2,2847,5694,November
+TRX1099,CUST098,Jacket,Fashion,Fashion,2,1785,3570,February
+TRX1100,CUST020,Jeans,Fashion,Fashion,4,3019,12076,April
+TRX1101,CUST015,Moisturizer,Beauty,Beauty,3,1075,3225,May
+TRX1102,CUST126,Keyboard,Electronics,Electronics,4,566,2264,July
+TRX1103,CUST104,Pillow,Home,Home,2,3485,6970,August
+TRX1104,CUST060,Jacket,Fashion,Fashion,1,1785,1785,April
+TRX1105,CUST125,Moisturizer,Beauty,Beauty,4,1075,4300,May
+TRX1106,CUST026,AI Basics,Books,Books,4,4943,19772,June
+TRX1107,CUST127,Shoes,Fashion,Fashion,4,230,920,May
+TRX1108,CUST192,Shoes,Fashion,Fashion,4,230,920,December
+TRX1109,CUST190,Headphones,Electronics,Electronics,3,960,2880,October
+TRX1110,CUST057,Watch,Fashion,Fashion,4,869,3476,February
+TRX1111,CUST009,Face Wash,Beauty,Beauty,4,2658,10632,February
+TRX1112,CUST115,Python Programming,Books,Books,3,4217,12651,October
+TRX1113,CUST015,Face Wash,Beauty,Beauty,4,2658,10632,September
+TRX1114,CUST040,AI Basics,Books,Books,3,4943,14829,May
+TRX1115,CUST082,Moisturizer,Beauty,Beauty,1,1075,1075,December
+TRX1116,CUST172,Bedsheet,Home,Home,3,4655,13965,September
+TRX1117,CUST227,Jacket,Fashion,Fashion,3,1785,5355,September
+TRX1118,CUST224,Face Wash,Beauty,Beauty,1,2658,2658,January
+TRX1119,CUST229,Pillow,Home,Home,1,3485,3485,December
+TRX1120,CUST090,Machine Learning,Books,Books,3,574,1722,August
+TRX1121,CUST025,Moisturizer,Beauty,Beauty,3,1075,3225,June
+TRX1122,CUST191,Web Development,Books,Books,2,1182,2364,March
+TRX1123,CUST156,Pillow,Home,Home,2,3485,6970,February
+TRX1124,CUST208,Shampoo,Beauty,Beauty,4,2147,8588,July
+TRX1125,CUST072,Smartwatch,Electronics,Electronics,2,3544,7088,March
+TRX1126,CUST138,Lamp,Home,Home,4,1284,5136,January
+TRX1127,CUST059,Perfume,Beauty,Beauty,1,2847,2847,April
+TRX1128,CUST089,Smartwatch,Electronics,Electronics,1,3544,3544,October
+TRX1129,CUST084,Web Development,Books,Books,1,1182,1182,October
+TRX1130,CUST114,Keyboard,Electronics,Electronics,4,566,2264,January
+TRX1131,CUST182,Python Programming,Books,Books,1,4217,4217,January
+TRX1132,CUST152,Jeans,Fashion,Fashion,3,3019,9057,July
+TRX1133,CUST174,Chair,Home,Home,3,2533,7599,November
+TRX1134,CUST013,Face Wash,Beauty,Beauty,4,2658,10632,September
+TRX1135,CUST189,Jeans,Fashion,Fashion,3,3019,9057,January
+TRX1136,CUST030,Moisturizer,Beauty,Beauty,2,1075,2150,February
+TRX1137,CUST013,Pillow,Home,Home,2,3485,6970,May
+TRX1138,CUST112,Mouse,Electronics,Electronics,4,3192,12768,September
+TRX1139,CUST180,Jacket,Fashion,Fashion,3,1785,5355,May
+TRX1140,CUST215,Python Programming,Books,Books,1,4217,4217,April
+TRX1141,CUST137,Keyboard,Electronics,Electronics,3,566,1698,November
+TRX1142,CUST098,Keyboard,Electronics,Electronics,1,566,566,September
+TRX1143,CUST185,Bedsheet,Home,Home,1,4655,4655,November
+TRX1144,CUST232,Shoes,Fashion,Fashion,3,230,690,July
+TRX1145,CUST171,Headphones,Electronics,Electronics,4,960,3840,October
+TRX1146,CUST221,Face Wash,Beauty,Beauty,4,2658,10632,July
+TRX1147,CUST056,Watch,Fashion,Fashion,1,869,869,March
+TRX1148,CUST054,Headphones,Electronics,Electronics,3,960,2880,March
+TRX1149,CUST139,Smartphone,Electronics,Electronics,3,4526,13578,February
+TRX1150,CUST063,Bedsheet,Home,Home,3,4655,13965,January
+TRX1151,CUST006,Bedsheet,Home,Home,2,4655,9310,June
+TRX1152,CUST119,Perfume,Beauty,Beauty,4,2847,11388,April
+TRX1153,CUST214,T-Shirt,Fashion,Fashion,3,3271,9813,April
+TRX1154,CUST058,Moisturizer,Beauty,Beauty,2,1075,2150,January
+TRX1155,CUST105,Machine Learning,Books,Books,2,574,1148,March
+TRX1156,CUST186,Data Science,Books,Books,2,3004,6008,August
+TRX1157,CUST184,Bedsheet,Home,Home,1,4655,4655,October
+TRX1158,CUST210,Keyboard,Electronics,Electronics,4,566,2264,August
+TRX1159,CUST208,Jacket,Fashion,Fashion,2,1785,3570,December
+TRX1160,CUST155,Keyboard,Electronics,Electronics,3,566,1698,August
+TRX1161,CUST119,Face Wash,Beauty,Beauty,3,2658,7974,February
+TRX1162,CUST067,Jeans,Fashion,Fashion,1,3019,3019,October
+TRX1163,CUST148,Shoes,Fashion,Fashion,3,230,690,August
+TRX1164,CUST005,Chair,Home,Home,3,2533,7599,January
+TRX1165,CUST015,Bedsheet,Home,Home,1,4655,4655,May
+TRX1166,CUST044,Jeans,Fashion,Fashion,3,3019,9057,February
+TRX1167,CUST084,Machine Learning,Books,Books,3,574,1722,July
+TRX1168,CUST112,Smartwatch,Electronics,Electronics,1,3544,3544,February
+TRX1169,CUST158,Chair,Home,Home,1,2533,2533,September
+TRX1170,CUST084,Keyboard,Electronics,Electronics,2,566,1132,May
+TRX1171,CUST190,Face Wash,Beauty,Beauty,4,2658,10632,June
+TRX1172,CUST143,Jeans,Fashion,Fashion,2,3019,6038,April
+TRX1173,CUST207,Smartphone,Electronics,Electronics,4,4526,18104,September
+TRX1174,CUST122,Shampoo,Beauty,Beauty,1,2147,2147,November
+TRX1175,CUST112,Machine Learning,Books,Books,3,574,1722,February
+TRX1176,CUST149,Data Science,Books,Books,2,3004,6008,August
+TRX1177,CUST151,Chair,Home,Home,2,2533,5066,September
+TRX1178,CUST180,Mouse,Electronics,Electronics,1,3192,3192,May
+TRX1179,CUST122,Face Wash,Beauty,Beauty,3,2658,7974,May
+TRX1180,CUST056,Pillow,Home,Home,2,3485,6970,May
+TRX1181,CUST073,Chair,Home,Home,1,2533,2533,August
+TRX1182,CUST188,Lamp,Home,Home,4,1284,5136,December
+TRX1183,CUST076,Watch,Fashion,Fashion,3,869,2607,August
+TRX1184,CUST191,Face Wash,Beauty,Beauty,2,2658,5316,December
+TRX1185,CUST122,Laptop,Electronics,Electronics,1,3872,3872,August
+TRX1186,CUST239,Jacket,Fashion,Fashion,1,1785,1785,December
+TRX1187,CUST129,Perfume,Beauty,Beauty,1,2847,2847,January
+TRX1188,CUST249,Jeans,Fashion,Fashion,1,3019,3019,January
+TRX1189,CUST022,Pillow,Home,Home,4,3485,13940,August
+TRX1190,CUST190,Headphones,Electronics,Electronics,2,960,1920,October
+TRX1191,CUST141,Smartwatch,Electronics,Electronics,1,3544,3544,June
+TRX1192,CUST163,Perfume,Beauty,Beauty,2,2847,5694,November
+TRX1193,CUST013,Smartphone,Electronics,Electronics,4,4526,18104,March
+TRX1194,CUST060,Shampoo,Beauty,Beauty,2,2147,4294,January
+TRX1195,CUST151,Laptop,Electronics,Electronics,2,3872,7744,May
+TRX1196,CUST218,Data Science,Books,Books,4,3004,12016,February
+TRX1197,CUST146,Python Programming,Books,Books,1,4217,4217,July
+TRX1198,CUST128,Data Science,Books,Books,3,3004,9012,November
+TRX1199,CUST239,Data Science,Books,Books,1,3004,3004,March
+TRX1200,CUST147,Machine Learning,Books,Books,3,574,1722,October
+TRX1201,CUST176,Web Development,Books,Books,1,1182,1182,January
+TRX1202,CUST071,Chair,Home,Home,1,2533,2533,March
+TRX1203,CUST032,Web Development,Books,Books,2,1182,2364,October
+TRX1204,CUST128,Moisturizer,Beauty,Beauty,3,1075,3225,April
+TRX1205,CUST040,Bedsheet,Home,Home,4,4655,18620,April
+TRX1206,CUST173,Jacket,Fashion,Fashion,4,1785,7140,February
+TRX1207,CUST031,Lamp,Home,Home,3,1284,3852,September
+TRX1208,CUST231,Shampoo,Beauty,Beauty,4,2147,8588,July
+TRX1209,CUST248,Data Science,Books,Books,3,3004,9012,October
+TRX1210,CUST125,Mouse,Electronics,Electronics,2,3192,6384,October
+TRX1211,CUST230,Jeans,Fashion,Fashion,1,3019,3019,May
+TRX1212,CUST221,AI Basics,Books,Books,3,4943,14829,July
+TRX1213,CUST197,Watch,Fashion,Fashion,2,869,1738,December
+TRX1214,CUST004,Perfume,Beauty,Beauty,2,2847,5694,October
+TRX1215,CUST146,T-Shirt,Fashion,Fashion,1,3271,3271,October
+TRX1216,CUST212,Lamp,Home,Home,2,1284,2568,November
+TRX1217,CUST043,Keyboard,Electronics,Electronics,3,566,1698,April
+TRX1218,CUST081,Mouse,Electronics,Electronics,1,3192,3192,June
+TRX1219,CUST248,Table,Home,Home,4,2491,9964,June
+TRX1220,CUST112,Pillow,Home,Home,3,3485,10455,October
+TRX1221,CUST003,Keyboard,Electronics,Electronics,4,566,2264,July
+TRX1222,CUST014,Laptop,Electronics,Electronics,1,3872,3872,November
+TRX1223,CUST233,Laptop,Electronics,Electronics,3,3872,11616,May
+TRX1224,CUST047,Python Programming,Books,Books,4,4217,16868,February
+TRX1225,CUST237,Laptop,Electronics,Electronics,2,3872,7744,October
+TRX1226,CUST249,T-Shirt,Fashion,Fashion,1,3271,3271,March
+TRX1227,CUST116,Jeans,Fashion,Fashion,3,3019,9057,November
+TRX1228,CUST011,Face Wash,Beauty,Beauty,2,2658,5316,July
+TRX1229,CUST247,Smartwatch,Electronics,Electronics,4,3544,14176,February
+TRX1230,CUST076,Laptop,Electronics,Electronics,2,3872,7744,June
+TRX1231,CUST075,Mouse,Electronics,Electronics,2,3192,6384,March
+TRX1232,CUST245,Chair,Home,Home,4,2533,10132,June
+TRX1233,CUST185,Data Science,Books,Books,3,3004,9012,October
+TRX1234,CUST076,Web Development,Books,Books,4,1182,4728,July
+TRX1235,CUST246,Jeans,Fashion,Fashion,3,3019,9057,November
+TRX1236,CUST027,Machine Learning,Books,Books,1,574,574,November
+TRX1237,CUST017,Face Wash,Beauty,Beauty,4,2658,10632,April
+TRX1238,CUST213,Shampoo,Beauty,Beauty,4,2147,8588,April
+TRX1239,CUST028,Perfume,Beauty,Beauty,4,2847,11388,May
+TRX1240,CUST158,Watch,Fashion,Fashion,4,869,3476,December
+TRX1241,CUST125,Face Wash,Beauty,Beauty,3,2658,7974,April
+TRX1242,CUST175,Data Science,Books,Books,1,3004,3004,October
+TRX1243,CUST021,Perfume,Beauty,Beauty,3,2847,8541,April
+TRX1244,CUST029,Python Programming,Books,Books,2,4217,8434,April
+TRX1245,CUST130,Watch,Fashion,Fashion,2,869,1738,April
+TRX1246,CUST030,Perfume,Beauty,Beauty,3,2847,8541,February
+TRX1247,CUST141,Pillow,Home,Home,4,3485,13940,June
+TRX1248,CUST180,Machine Learning,Books,Books,1,574,574,July
+TRX1249,CUST243,Bedsheet,Home,Home,3,4655,13965,September
+TRX1250,CUST148,Keyboard,Electronics,Electronics,2,566,1132,February
+TRX1251,CUST005,Data Science,Books,Books,1,3004,3004,June
+TRX1252,CUST186,Web Development,Books,Books,4,1182,4728,February
+TRX1253,CUST077,T-Shirt,Fashion,Fashion,2,3271,6542,July
+TRX1254,CUST068,Chair,Home,Home,2,2533,5066,March
+TRX1255,CUST185,Face Wash,Beauty,Beauty,3,2658,7974,March
+TRX1256,CUST095,Moisturizer,Beauty,Beauty,2,1075,2150,November
+TRX1257,CUST116,Jeans,Fashion,Fashion,2,3019,6038,December
+TRX1258,CUST216,Smartwatch,Electronics,Electronics,3,3544,10632,May
+TRX1259,CUST159,Table,Home,Home,3,2491,7473,July
+TRX1260,CUST085,AI Basics,Books,Books,3,4943,14829,February
+TRX1261,CUST140,Headphones,Electronics,Electronics,3,960,2880,December
+TRX1262,CUST224,Keyboard,Electronics,Electronics,1,566,566,October
+TRX1263,CUST199,Jeans,Fashion,Fashion,4,3019,12076,April
+TRX1264,CUST108,Chair,Home,Home,3,2533,7599,August
+TRX1265,CUST050,Lamp,Home,Home,1,1284,1284,March
+TRX1266,CUST012,Chair,Home,Home,3,2533,7599,January
+TRX1267,CUST182,T-Shirt,Fashion,Fashion,4,3271,13084,February
+TRX1268,CUST060,Machine Learning,Books,Books,1,574,574,October
+TRX1269,CUST188,T-Shirt,Fashion,Fashion,1,3271,3271,August
+TRX1270,CUST105,Watch,Fashion,Fashion,2,869,1738,June
+TRX1271,CUST185,AI Basics,Books,Books,3,4943,14829,November
+TRX1272,CUST041,Jeans,Fashion,Fashion,1,3019,3019,February
+TRX1273,CUST012,Keyboard,Electronics,Electronics,2,566,1132,September
+TRX1274,CUST010,Laptop,Electronics,Electronics,4,3872,15488,April
+TRX1275,CUST039,AI Basics,Books,Books,1,4943,4943,March
+TRX1276,CUST124,Data Science,Books,Books,2,3004,6008,September
+TRX1277,CUST078,Watch,Fashion,Fashion,3,869,2607,December
+TRX1278,CUST101,Machine Learning,Books,Books,1,574,574,July
+TRX1279,CUST024,Shampoo,Beauty,Beauty,2,2147,4294,May
+TRX1280,CUST146,Jeans,Fashion,Fashion,4,3019,12076,June
+TRX1281,CUST248,Web Development,Books,Books,4,1182,4728,June
+TRX1282,CUST206,Moisturizer,Beauty,Beauty,4,1075,4300,September
+TRX1283,CUST096,Smartphone,Electronics,Electronics,4,4526,18104,April
+TRX1284,CUST018,Pillow,Home,Home,3,3485,10455,November
+TRX1285,CUST197,Web Development,Books,Books,4,1182,4728,March
+TRX1286,CUST206,Python Programming,Books,Books,1,4217,4217,July
+TRX1287,CUST142,Perfume,Beauty,Beauty,2,2847,5694,December
+TRX1288,CUST145,Smartwatch,Electronics,Electronics,3,3544,10632,December
+TRX1289,CUST098,Face Wash,Beauty,Beauty,3,2658,7974,April
+TRX1290,CUST087,Lamp,Home,Home,1,1284,1284,May
+TRX1291,CUST031,Table,Home,Home,4,2491,9964,March
+TRX1292,CUST110,Perfume,Beauty,Beauty,4,2847,11388,March
+TRX1293,CUST133,Smartphone,Electronics,Electronics,2,4526,9052,September
+TRX1294,CUST095,Watch,Fashion,Fashion,1,869,869,December
+TRX1295,CUST219,Headphones,Electronics,Electronics,4,960,3840,December
+TRX1296,CUST087,Lamp,Home,Home,1,1284,1284,June
+TRX1297,CUST218,Bedsheet,Home,Home,2,4655,9310,March
+TRX1298,CUST193,Watch,Fashion,Fashion,3,869,2607,January
+TRX1299,CUST081,Watch,Fashion,Fashion,4,869,3476,June
+TRX1300,CUST008,Moisturizer,Beauty,Beauty,3,1075,3225,January
+TRX1301,CUST131,Data Science,Books,Books,1,3004,3004,November
+TRX1302,CUST108,Machine Learning,Books,Books,1,574,574,April
+TRX1303,CUST073,Data Science,Books,Books,2,3004,6008,March
+TRX1304,CUST102,Pillow,Home,Home,3,3485,10455,December
+TRX1305,CUST185,Machine Learning,Books,Books,3,574,1722,May
+TRX1306,CUST109,Lamp,Home,Home,4,1284,5136,April
+TRX1307,CUST200,Jeans,Fashion,Fashion,4,3019,12076,March
+TRX1308,CUST026,Pillow,Home,Home,4,3485,13940,September
+TRX1309,CUST020,Lamp,Home,Home,4,1284,5136,July
+TRX1310,CUST206,Chair,Home,Home,2,2533,5066,November
+TRX1311,CUST011,Shoes,Fashion,Fashion,3,230,690,June
+TRX1312,CUST174,Python Programming,Books,Books,2,4217,8434,December
+TRX1313,CUST065,Lamp,Home,Home,4,1284,5136,June
+TRX1314,CUST175,Pillow,Home,Home,4,3485,13940,September
+TRX1315,CUST140,Jacket,Fashion,Fashion,3,1785,5355,March
+TRX1316,CUST117,Shampoo,Beauty,Beauty,1,2147,2147,August
+TRX1317,CUST208,Smartphone,Electronics,Electronics,1,4526,4526,June
+TRX1318,CUST054,Keyboard,Electronics,Electronics,2,566,1132,April
+TRX1319,CUST075,Smartwatch,Electronics,Electronics,2,3544,7088,November
+TRX1320,CUST092,Smartphone,Electronics,Electronics,3,4526,13578,February
+TRX1321,CUST028,Table,Home,Home,2,2491,4982,September
+TRX1322,CUST054,Perfume,Beauty,Beauty,1,2847,2847,April
+TRX1323,CUST014,Bedsheet,Home,Home,1,4655,4655,March
+TRX1324,CUST208,Web Development,Books,Books,1,1182,1182,August
+TRX1325,CUST217,Chair,Home,Home,3,2533,7599,May
+TRX1326,CUST064,AI Basics,Books,Books,2,4943,9886,July
+TRX1327,CUST217,T-Shirt,Fashion,Fashion,2,3271,6542,January
+TRX1328,CUST169,Jeans,Fashion,Fashion,1,3019,3019,July
+TRX1329,CUST240,Shampoo,Beauty,Beauty,2,2147,4294,November
+TRX1330,CUST052,Headphones,Electronics,Electronics,4,960,3840,May
+TRX1331,CUST188,Jacket,Fashion,Fashion,1,1785,1785,April
+TRX1332,CUST171,Jacket,Fashion,Fashion,1,1785,1785,July
+TRX1333,CUST222,T-Shirt,Fashion,Fashion,1,3271,3271,March
+TRX1334,CUST008,Moisturizer,Beauty,Beauty,3,1075,3225,April
+TRX1335,CUST178,Data Science,Books,Books,3,3004,9012,November
+TRX1336,CUST032,Laptop,Electronics,Electronics,4,3872,15488,December
+TRX1337,CUST157,Lamp,Home,Home,3,1284,3852,April
+TRX1338,CUST165,Smartwatch,Electronics,Electronics,2,3544,7088,July
+TRX1339,CUST233,Data Science,Books,Books,2,3004,6008,December
+TRX1340,CUST012,AI Basics,Books,Books,2,4943,9886,May
+TRX1341,CUST199,Face Wash,Beauty,Beauty,3,2658,7974,October
+TRX1342,CUST090,Watch,Fashion,Fashion,2,869,1738,June
+TRX1343,CUST044,Pillow,Home,Home,2,3485,6970,May
+TRX1344,CUST030,Laptop,Electronics,Electronics,1,3872,3872,October
+TRX1345,CUST229,Data Science,Books,Books,3,3004,9012,September
+TRX1346,CUST246,Moisturizer,Beauty,Beauty,3,1075,3225,January
+TRX1347,CUST235,Perfume,Beauty,Beauty,2,2847,5694,April
+TRX1348,CUST231,Moisturizer,Beauty,Beauty,2,1075,2150,February
+TRX1349,CUST003,Chair,Home,Home,4,2533,10132,June
+TRX1350,CUST165,T-Shirt,Fashion,Fashion,4,3271,13084,November
+TRX1351,CUST095,Shoes,Fashion,Fashion,4,230,920,November
+TRX1352,CUST210,Python Programming,Books,Books,2,4217,8434,August
+TRX1353,CUST022,Jacket,Fashion,Fashion,3,1785,5355,June
+TRX1354,CUST170,Headphones,Electronics,Electronics,1,960,960,July
+TRX1355,CUST144,Machine Learning,Books,Books,3,574,1722,July
+TRX1356,CUST177,Laptop,Electronics,Electronics,1,3872,3872,June
+TRX1357,CUST160,Perfume,Beauty,Beauty,1,2847,2847,October
+TRX1358,CUST053,Chair,Home,Home,3,2533,7599,July
+TRX1359,CUST122,Perfume,Beauty,Beauty,3,2847,8541,March
+TRX1360,CUST083,Jacket,Fashion,Fashion,1,1785,1785,March
+TRX1361,CUST006,Web Development,Books,Books,1,1182,1182,March
+TRX1362,CUST067,Jacket,Fashion,Fashion,3,1785,5355,April
+TRX1363,CUST179,Perfume,Beauty,Beauty,1,2847,2847,August
+TRX1364,CUST087,Perfume,Beauty,Beauty,4,2847,11388,September
+TRX1365,CUST060,Face Wash,Beauty,Beauty,1,2658,2658,July
+TRX1366,CUST015,T-Shirt,Fashion,Fashion,2,3271,6542,August
+TRX1367,CUST113,Moisturizer,Beauty,Beauty,1,1075,1075,October
+TRX1368,CUST235,Headphones,Electronics,Electronics,2,960,1920,December
+TRX1369,CUST089,Keyboard,Electronics,Electronics,2,566,1132,September
+TRX1370,CUST164,Mouse,Electronics,Electronics,2,3192,6384,May
+TRX1371,CUST171,Laptop,Electronics,Electronics,2,3872,7744,November
+TRX1372,CUST078,AI Basics,Books,Books,3,4943,14829,December
+TRX1373,CUST063,Keyboard,Electronics,Electronics,3,566,1698,August
+TRX1374,CUST155,Keyboard,Electronics,Electronics,4,566,2264,January
+TRX1375,CUST068,Laptop,Electronics,Electronics,4,3872,15488,March
+TRX1376,CUST154,Face Wash,Beauty,Beauty,1,2658,2658,September
+TRX1377,CUST148,Jeans,Fashion,Fashion,2,3019,6038,October
+TRX1378,CUST247,Shampoo,Beauty,Beauty,3,2147,6441,December
+TRX1379,CUST239,Shampoo,Beauty,Beauty,3,2147,6441,September
+TRX1380,CUST183,Lamp,Home,Home,3,1284,3852,July
+TRX1381,CUST053,Watch,Fashion,Fashion,4,869,3476,August
+TRX1382,CUST233,Mouse,Electronics,Electronics,3,3192,9576,July
+TRX1383,CUST214,Chair,Home,Home,4,2533,10132,July
+TRX1384,CUST220,Machine Learning,Books,Books,3,574,1722,January
+TRX1385,CUST147,Data Science,Books,Books,4,3004,12016,January
+TRX1386,CUST037,Shoes,Fashion,Fashion,2,230,460,March
+TRX1387,CUST168,Shampoo,Beauty,Beauty,3,2147,6441,December
+TRX1388,CUST054,Data Science,Books,Books,4,3004,12016,August
+TRX1389,CUST236,Shampoo,Beauty,Beauty,4,2147,8588,May
+TRX1390,CUST153,Headphones,Electronics,Electronics,2,960,1920,July
+TRX1391,CUST115,Lamp,Home,Home,3,1284,3852,November
+TRX1392,CUST146,Smartphone,Electronics,Electronics,1,4526,4526,July
+TRX1393,CUST151,Pillow,Home,Home,4,3485,13940,February
+TRX1394,CUST088,Lamp,Home,Home,2,1284,2568,July
+TRX1395,CUST050,Data Science,Books,Books,2,3004,6008,November
+TRX1396,CUST137,Face Wash,Beauty,Beauty,1,2658,2658,May
+TRX1397,CUST090,Face Wash,Beauty,Beauty,1,2658,2658,July
+TRX1398,CUST148,Shampoo,Beauty,Beauty,1,2147,2147,December
+TRX1399,CUST145,Python Programming,Books,Books,2,4217,8434,September
+TRX1400,CUST058,T-Shirt,Fashion,Fashion,2,3271,6542,November
+TRX1401,CUST249,Shampoo,Beauty,Beauty,2,2147,4294,November
+TRX1402,CUST142,Shoes,Fashion,Fashion,3,230,690,May
+TRX1403,CUST099,Mouse,Electronics,Electronics,2,3192,6384,January
+TRX1404,CUST116,Moisturizer,Beauty,Beauty,1,1075,1075,March
+TRX1405,CUST190,Keyboard,Electronics,Electronics,1,566,566,January
+TRX1406,CUST126,Chair,Home,Home,1,2533,2533,February
+TRX1407,CUST221,Lamp,Home,Home,1,1284,1284,June
+TRX1408,CUST243,Headphones,Electronics,Electronics,2,960,1920,March
+TRX1409,CUST225,Jacket,Fashion,Fashion,4,1785,7140,July
+TRX1410,CUST146,T-Shirt,Fashion,Fashion,1,3271,3271,June
+TRX1411,CUST021,T-Shirt,Fashion,Fashion,4,3271,13084,November
+TRX1412,CUST039,Jeans,Fashion,Fashion,2,3019,6038,September
+TRX1413,CUST244,Jacket,Fashion,Fashion,4,1785,7140,April
+TRX1414,CUST125,Keyboard,Electronics,Electronics,3,566,1698,August
+TRX1415,CUST009,Face Wash,Beauty,Beauty,2,2658,5316,April
+TRX1416,CUST209,Table,Home,Home,4,2491,9964,May
+TRX1417,CUST247,Moisturizer,Beauty,Beauty,3,1075,3225,February
+TRX1418,CUST111,Watch,Fashion,Fashion,1,869,869,April
+TRX1419,CUST170,Shampoo,Beauty,Beauty,1,2147,2147,September
+TRX1420,CUST008,Table,Home,Home,2,2491,4982,May
+TRX1421,CUST011,Pillow,Home,Home,1,3485,3485,October
+TRX1422,CUST141,Web Development,Books,Books,4,1182,4728,May
+TRX1423,CUST074,Python Programming,Books,Books,4,4217,16868,July
+TRX1424,CUST130,Web Development,Books,Books,3,1182,3546,October
+TRX1425,CUST179,Perfume,Beauty,Beauty,3,2847,8541,September
+TRX1426,CUST031,Jacket,Fashion,Fashion,4,1785,7140,July
+TRX1427,CUST209,Shampoo,Beauty,Beauty,1,2147,2147,October
+TRX1428,CUST103,AI Basics,Books,Books,3,4943,14829,June
+TRX1429,CUST195,Shoes,Fashion,Fashion,2,230,460,November
+TRX1430,CUST118,Web Development,Books,Books,3,1182,3546,June
+TRX1431,CUST059,Data Science,Books,Books,2,3004,6008,August
+TRX1432,CUST105,Python Programming,Books,Books,4,4217,16868,July
+TRX1433,CUST035,Mouse,Electronics,Electronics,2,3192,6384,April
+TRX1434,CUST007,Table,Home,Home,1,2491,2491,June
+TRX1435,CUST232,Chair,Home,Home,4,2533,10132,April
+TRX1436,CUST083,T-Shirt,Fashion,Fashion,3,3271,9813,July
+TRX1437,CUST155,Jeans,Fashion,Fashion,4,3019,12076,September
+TRX1438,CUST006,Watch,Fashion,Fashion,2,869,1738,September
+TRX1439,CUST183,Smartwatch,Electronics,Electronics,4,3544,14176,November
+TRX1440,CUST026,Chair,Home,Home,4,2533,10132,March
+TRX1441,CUST075,Shampoo,Beauty,Beauty,3,2147,6441,October
+TRX1442,CUST176,Shampoo,Beauty,Beauty,4,2147,8588,July
+TRX1443,CUST222,Lamp,Home,Home,4,1284,5136,June
+TRX1444,CUST059,Smartphone,Electronics,Electronics,1,4526,4526,August
+TRX1445,CUST056,Data Science,Books,Books,3,3004,9012,March
+TRX1446,CUST246,Moisturizer,Beauty,Beauty,3,1075,3225,November
+TRX1447,CUST001,Bedsheet,Home,Home,3,4655,13965,September
+TRX1448,CUST123,Chair,Home,Home,1,2533,2533,January
+TRX1449,CUST178,Web Development,Books,Books,1,1182,1182,November
+TRX1450,CUST127,Mouse,Electronics,Electronics,4,3192,12768,May
+TRX1451,CUST048,Bedsheet,Home,Home,3,4655,13965,March
+TRX1452,CUST116,Face Wash,Beauty,Beauty,3,2658,7974,January
+TRX1453,CUST124,AI Basics,Books,Books,2,4943,9886,June
+TRX1454,CUST206,Shoes,Fashion,Fashion,3,230,690,February
+TRX1455,CUST036,Pillow,Home,Home,1,3485,3485,February
+TRX1456,CUST216,Moisturizer,Beauty,Beauty,4,1075,4300,April
+TRX1457,CUST241,Face Wash,Beauty,Beauty,2,2658,5316,December
+TRX1458,CUST078,Smartphone,Electronics,Electronics,2,4526,9052,February
+TRX1459,CUST246,Perfume,Beauty,Beauty,3,2847,8541,September
+TRX1460,CUST038,Chair,Home,Home,1,2533,2533,May
+TRX1461,CUST206,Smartwatch,Electronics,Electronics,1,3544,3544,April
+TRX1462,CUST085,Face Wash,Beauty,Beauty,2,2658,5316,March
+TRX1463,CUST229,Jeans,Fashion,Fashion,4,3019,12076,January
+TRX1464,CUST171,Laptop,Electronics,Electronics,3,3872,11616,February
+TRX1465,CUST132,Perfume,Beauty,Beauty,2,2847,5694,June
+TRX1466,CUST081,Smartphone,Electronics,Electronics,1,4526,4526,April
+TRX1467,CUST192,Table,Home,Home,1,2491,2491,August
+TRX1468,CUST201,Shampoo,Beauty,Beauty,1,2147,2147,February
+TRX1469,CUST009,Bedsheet,Home,Home,2,4655,9310,June
+TRX1470,CUST022,Watch,Fashion,Fashion,2,869,1738,November
+TRX1471,CUST110,Laptop,Electronics,Electronics,3,3872,11616,January
+TRX1472,CUST127,Headphones,Electronics,Electronics,4,960,3840,April
+TRX1473,CUST004,Shampoo,Beauty,Beauty,3,2147,6441,November
+TRX1474,CUST059,Keyboard,Electronics,Electronics,2,566,1132,September
+TRX1475,CUST183,Machine Learning,Books,Books,2,574,1148,February
+TRX1476,CUST087,Jeans,Fashion,Fashion,4,3019,12076,August
+TRX1477,CUST113,Moisturizer,Beauty,Beauty,2,1075,2150,June
+TRX1478,CUST205,Smartphone,Electronics,Electronics,3,4526,13578,July
+TRX1479,CUST189,T-Shirt,Fashion,Fashion,3,3271,9813,February
+TRX1480,CUST151,Chair,Home,Home,2,2533,5066,October
+TRX1481,CUST196,Chair,Home,Home,2,2533,5066,July
+TRX1482,CUST040,T-Shirt,Fashion,Fashion,4,3271,13084,January
+TRX1483,CUST052,Shoes,Fashion,Fashion,1,230,230,May
+TRX1484,CUST218,Mouse,Electronics,Electronics,3,3192,9576,December
+TRX1485,CUST042,Lamp,Home,Home,2,1284,2568,April
+TRX1486,CUST216,Table,Home,Home,2,2491,4982,January
+TRX1487,CUST113,Table,Home,Home,3,2491,7473,December
+TRX1488,CUST099,Shampoo,Beauty,Beauty,3,2147,6441,April
+TRX1489,CUST126,Perfume,Beauty,Beauty,1,2847,2847,October
+TRX1490,CUST098,Smartwatch,Electronics,Electronics,4,3544,14176,February
+TRX1491,CUST247,T-Shirt,Fashion,Fashion,2,3271,6542,July
+TRX1492,CUST217,Lamp,Home,Home,1,1284,1284,December
+TRX1493,CUST226,Chair,Home,Home,1,2533,2533,January
+TRX1494,CUST052,Face Wash,Beauty,Beauty,2,2658,5316,May
+TRX1495,CUST065,Table,Home,Home,3,2491,7473,May
+TRX1496,CUST181,Data Science,Books,Books,1,3004,3004,June
+TRX1497,CUST168,Jacket,Fashion,Fashion,1,1785,1785,April
+TRX1498,CUST074,Table,Home,Home,1,2491,2491,November
+TRX1499,CUST023,Web Development,Books,Books,3,1182,3546,December
+TRX1500,CUST079,Watch,Fashion,Fashion,4,869,3476,July
+TRX1501,CUST096,Chair,Home,Home,2,2533,5066,February
+TRX1502,CUST125,Smartphone,Electronics,Electronics,4,4526,18104,June
+TRX1503,CUST150,Keyboard,Electronics,Electronics,1,566,566,June
+TRX1504,CUST239,Shampoo,Beauty,Beauty,2,2147,4294,March
+TRX1505,CUST146,Face Wash,Beauty,Beauty,3,2658,7974,July
+TRX1506,CUST154,Perfume,Beauty,Beauty,3,2847,8541,December
+TRX1507,CUST027,T-Shirt,Fashion,Fashion,3,3271,9813,April
+TRX1508,CUST109,Table,Home,Home,1,2491,2491,February
+TRX1509,CUST055,T-Shirt,Fashion,Fashion,4,3271,13084,July
+TRX1510,CUST038,Shampoo,Beauty,Beauty,3,2147,6441,March
+TRX1511,CUST087,Shampoo,Beauty,Beauty,1,2147,2147,September
+TRX1512,CUST169,Chair,Home,Home,4,2533,10132,February
+TRX1513,CUST043,Headphones,Electronics,Electronics,1,960,960,April
+TRX1514,CUST224,Jeans,Fashion,Fashion,2,3019,6038,April
+TRX1515,CUST149,Python Programming,Books,Books,1,4217,4217,October
+TRX1516,CUST115,Shoes,Fashion,Fashion,4,230,920,December
+TRX1517,CUST056,Smartwatch,Electronics,Electronics,3,3544,10632,December
+TRX1518,CUST209,Chair,Home,Home,2,2533,5066,February
+TRX1519,CUST127,AI Basics,Books,Books,3,4943,14829,September
+TRX1520,CUST215,AI Basics,Books,Books,1,4943,4943,November
+TRX1521,CUST074,Smartphone,Electronics,Electronics,4,4526,18104,November
+TRX1522,CUST117,Smartphone,Electronics,Electronics,4,4526,18104,August
+TRX1523,CUST110,Headphones,Electronics,Electronics,4,960,3840,May
+TRX1524,CUST057,T-Shirt,Fashion,Fashion,4,3271,13084,August
+TRX1525,CUST137,Python Programming,Books,Books,1,4217,4217,May
+TRX1526,CUST050,Shoes,Fashion,Fashion,1,230,230,May
+TRX1527,CUST146,Moisturizer,Beauty,Beauty,2,1075,2150,January
+TRX1528,CUST018,Jacket,Fashion,Fashion,1,1785,1785,February
+TRX1529,CUST017,Smartwatch,Electronics,Electronics,1,3544,3544,April
+TRX1530,CUST082,Bedsheet,Home,Home,4,4655,18620,August
+TRX1531,CUST047,Bedsheet,Home,Home,1,4655,4655,November
+TRX1532,CUST015,Web Development,Books,Books,3,1182,3546,March
+TRX1533,CUST090,AI Basics,Books,Books,1,4943,4943,October
+TRX1534,CUST154,Python Programming,Books,Books,2,4217,8434,May
+TRX1535,CUST131,T-Shirt,Fashion,Fashion,2,3271,6542,March
+TRX1536,CUST017,Python Programming,Books,Books,4,4217,16868,January
+TRX1537,CUST184,Lamp,Home,Home,1,1284,1284,July
+TRX1538,CUST154,Bedsheet,Home,Home,4,4655,18620,May
+TRX1539,CUST118,Web Development,Books,Books,2,1182,2364,January
+TRX1540,CUST049,Laptop,Electronics,Electronics,2,3872,7744,October
+TRX1541,CUST200,Perfume,Beauty,Beauty,4,2847,11388,June
+TRX1542,CUST144,Python Programming,Books,Books,2,4217,8434,November
+TRX1543,CUST154,T-Shirt,Fashion,Fashion,2,3271,6542,September
+TRX1544,CUST045,Data Science,Books,Books,4,3004,12016,April
+TRX1545,CUST154,Chair,Home,Home,2,2533,5066,December
+TRX1546,CUST030,Keyboard,Electronics,Electronics,2,566,1132,December
+TRX1547,CUST161,Shampoo,Beauty,Beauty,4,2147,8588,February
+TRX1548,CUST236,Watch,Fashion,Fashion,4,869,3476,April
+TRX1549,CUST168,Jeans,Fashion,Fashion,1,3019,3019,July
+TRX1550,CUST079,Perfume,Beauty,Beauty,1,2847,2847,December
+TRX1551,CUST130,Machine Learning,Books,Books,3,574,1722,March
+TRX1552,CUST183,AI Basics,Books,Books,4,4943,19772,April
+TRX1553,CUST078,Chair,Home,Home,4,2533,10132,June
+TRX1554,CUST205,AI Basics,Books,Books,4,4943,19772,April
+TRX1555,CUST123,Perfume,Beauty,Beauty,4,2847,11388,July
+TRX1556,CUST224,Bedsheet,Home,Home,3,4655,13965,May
+TRX1557,CUST107,Moisturizer,Beauty,Beauty,3,1075,3225,November
+TRX1558,CUST069,Lamp,Home,Home,2,1284,2568,May
+TRX1559,CUST023,Face Wash,Beauty,Beauty,1,2658,2658,March
+TRX1560,CUST093,Laptop,Electronics,Electronics,1,3872,3872,August
+TRX1561,CUST149,Mouse,Electronics,Electronics,2,3192,6384,August
+TRX1562,CUST106,Perfume,Beauty,Beauty,3,2847,8541,July
+TRX1563,CUST014,Jacket,Fashion,Fashion,2,1785,3570,December
+TRX1564,CUST119,T-Shirt,Fashion,Fashion,2,3271,6542,October
+TRX1565,CUST145,Mouse,Electronics,Electronics,2,3192,6384,March
+TRX1566,CUST001,Machine Learning,Books,Books,2,574,1148,February
+TRX1567,CUST106,Shampoo,Beauty,Beauty,1,2147,2147,April
+TRX1568,CUST082,Perfume,Beauty,Beauty,2,2847,5694,December
+TRX1569,CUST081,Jeans,Fashion,Fashion,2,3019,6038,August
+TRX1570,CUST125,Lamp,Home,Home,3,1284,3852,September
+TRX1571,CUST127,Python Programming,Books,Books,2,4217,8434,August
+TRX1572,CUST250,Bedsheet,Home,Home,1,4655,4655,April
+TRX1573,CUST010,Moisturizer,Beauty,Beauty,4,1075,4300,August
+TRX1574,CUST036,Shampoo,Beauty,Beauty,4,2147,8588,June
+TRX1575,CUST242,Shampoo,Beauty,Beauty,1,2147,2147,December
+TRX1576,CUST050,Python Programming,Books,Books,1,4217,4217,October
+TRX1577,CUST166,Moisturizer,Beauty,Beauty,2,1075,2150,December
+TRX1578,CUST074,T-Shirt,Fashion,Fashion,3,3271,9813,February
+TRX1579,CUST038,Chair,Home,Home,4,2533,10132,August
+TRX1580,CUST149,Face Wash,Beauty,Beauty,2,2658,5316,July
+TRX1581,CUST216,Mouse,Electronics,Electronics,2,3192,6384,August
+TRX1582,CUST220,Keyboard,Electronics,Electronics,4,566,2264,December
+TRX1583,CUST048,Shoes,Fashion,Fashion,2,230,460,September
+TRX1584,CUST180,Jeans,Fashion,Fashion,2,3019,6038,September
+TRX1585,CUST075,T-Shirt,Fashion,Fashion,4,3271,13084,August
+TRX1586,CUST126,Perfume,Beauty,Beauty,4,2847,11388,July
+TRX1587,CUST232,Smartphone,Electronics,Electronics,2,4526,9052,February
+TRX1588,CUST175,Smartphone,Electronics,Electronics,2,4526,9052,April
+TRX1589,CUST035,Chair,Home,Home,1,2533,2533,June
+TRX1590,CUST146,Shampoo,Beauty,Beauty,4,2147,8588,May
+TRX1591,CUST138,Python Programming,Books,Books,3,4217,12651,February
+TRX1592,CUST186,Jacket,Fashion,Fashion,1,1785,1785,August
+TRX1593,CUST089,AI Basics,Books,Books,3,4943,14829,February
+TRX1594,CUST229,Chair,Home,Home,3,2533,7599,November
+TRX1595,CUST054,Keyboard,Electronics,Electronics,4,566,2264,February
+TRX1596,CUST053,Laptop,Electronics,Electronics,1,3872,3872,May
+TRX1597,CUST154,Perfume,Beauty,Beauty,1,2847,2847,March
+TRX1598,CUST090,Chair,Home,Home,2,2533,5066,December
+TRX1599,CUST130,Bedsheet,Home,Home,4,4655,18620,February
+TRX1600,CUST077,Shampoo,Beauty,Beauty,4,2147,8588,February
+TRX1601,CUST127,Perfume,Beauty,Beauty,2,2847,5694,October
+TRX1602,CUST088,Machine Learning,Books,Books,1,574,574,May
+TRX1603,CUST141,Perfume,Beauty,Beauty,2,2847,5694,April
+TRX1604,CUST077,Smartphone,Electronics,Electronics,2,4526,9052,February
+TRX1605,CUST143,Jacket,Fashion,Fashion,4,1785,7140,March
+TRX1606,CUST143,Web Development,Books,Books,2,1182,2364,January
+TRX1607,CUST132,Bedsheet,Home,Home,2,4655,9310,May
+TRX1608,CUST151,Face Wash,Beauty,Beauty,4,2658,10632,January
+TRX1609,CUST219,Perfume,Beauty,Beauty,3,2847,8541,April
+TRX1610,CUST104,Shampoo,Beauty,Beauty,1,2147,2147,December
+TRX1611,CUST140,Watch,Fashion,Fashion,4,869,3476,January
+TRX1612,CUST220,Keyboard,Electronics,Electronics,1,566,566,June
+TRX1613,CUST244,Data Science,Books,Books,1,3004,3004,February
+TRX1614,CUST110,Watch,Fashion,Fashion,3,869,2607,October
+TRX1615,CUST109,Shoes,Fashion,Fashion,2,230,460,June
+TRX1616,CUST068,Face Wash,Beauty,Beauty,3,2658,7974,August
+TRX1617,CUST105,Moisturizer,Beauty,Beauty,3,1075,3225,October
+TRX1618,CUST171,Smartwatch,Electronics,Electronics,3,3544,10632,May
+TRX1619,CUST221,Lamp,Home,Home,2,1284,2568,December
+TRX1620,CUST246,AI Basics,Books,Books,4,4943,19772,August
+TRX1621,CUST036,Keyboard,Electronics,Electronics,2,566,1132,April
+TRX1622,CUST101,Table,Home,Home,1,2491,2491,May
+TRX1623,CUST146,Lamp,Home,Home,2,1284,2568,September
+TRX1624,CUST247,T-Shirt,Fashion,Fashion,2,3271,6542,April
+TRX1625,CUST093,Smartphone,Electronics,Electronics,2,4526,9052,December
+TRX1626,CUST170,Machine Learning,Books,Books,1,574,574,February
+TRX1627,CUST234,Laptop,Electronics,Electronics,1,3872,3872,November
+TRX1628,CUST091,Chair,Home,Home,2,2533,5066,July
+TRX1629,CUST090,Smartwatch,Electronics,Electronics,2,3544,7088,July
+TRX1630,CUST150,Python Programming,Books,Books,3,4217,12651,September
+TRX1631,CUST068,T-Shirt,Fashion,Fashion,4,3271,13084,August
+TRX1632,CUST247,Lamp,Home,Home,2,1284,2568,July
+TRX1633,CUST216,Keyboard,Electronics,Electronics,2,566,1132,September
+TRX1634,CUST111,Perfume,Beauty,Beauty,3,2847,8541,April
+TRX1635,CUST208,Machine Learning,Books,Books,3,574,1722,June
+TRX1636,CUST113,T-Shirt,Fashion,Fashion,2,3271,6542,July
+TRX1637,CUST124,Keyboard,Electronics,Electronics,3,566,1698,May
+TRX1638,CUST056,Machine Learning,Books,Books,3,574,1722,October
+TRX1639,CUST087,Moisturizer,Beauty,Beauty,3,1075,3225,July
+TRX1640,CUST156,Face Wash,Beauty,Beauty,3,2658,7974,January
+TRX1641,CUST242,Face Wash,Beauty,Beauty,3,2658,7974,February
+TRX1642,CUST206,Machine Learning,Books,Books,4,574,2296,April
+TRX1643,CUST019,Moisturizer,Beauty,Beauty,3,1075,3225,September
+TRX1644,CUST172,Moisturizer,Beauty,Beauty,3,1075,3225,February
+TRX1645,CUST194,Perfume,Beauty,Beauty,2,2847,5694,October
+TRX1646,CUST041,Perfume,Beauty,Beauty,1,2847,2847,October
+TRX1647,CUST138,Shoes,Fashion,Fashion,4,230,920,March
+TRX1648,CUST149,Keyboard,Electronics,Electronics,1,566,566,July
+TRX1649,CUST078,Shampoo,Beauty,Beauty,1,2147,2147,January
+TRX1650,CUST009,Smartphone,Electronics,Electronics,2,4526,9052,September
+TRX1651,CUST062,Web Development,Books,Books,4,1182,4728,June
+TRX1652,CUST171,Bedsheet,Home,Home,2,4655,9310,January
+TRX1653,CUST141,Smartwatch,Electronics,Electronics,1,3544,3544,November
+TRX1654,CUST177,AI Basics,Books,Books,4,4943,19772,October
+TRX1655,CUST095,Headphones,Electronics,Electronics,3,960,2880,October
+TRX1656,CUST219,Moisturizer,Beauty,Beauty,3,1075,3225,August
+TRX1657,CUST238,Machine Learning,Books,Books,2,574,1148,June
+TRX1658,CUST025,Web Development,Books,Books,4,1182,4728,May
+TRX1659,CUST018,Smartphone,Electronics,Electronics,3,4526,13578,January
+TRX1660,CUST193,Perfume,Beauty,Beauty,2,2847,5694,May
+TRX1661,CUST227,Mouse,Electronics,Electronics,1,3192,3192,June
+TRX1662,CUST237,Machine Learning,Books,Books,4,574,2296,February
+TRX1663,CUST213,Pillow,Home,Home,1,3485,3485,January
+TRX1664,CUST087,Headphones,Electronics,Electronics,1,960,960,February
+TRX1665,CUST019,Chair,Home,Home,2,2533,5066,November
+TRX1666,CUST020,Headphones,Electronics,Electronics,3,960,2880,February
+TRX1667,CUST063,Data Science,Books,Books,1,3004,3004,May
+TRX1668,CUST167,Watch,Fashion,Fashion,2,869,1738,November
+TRX1669,CUST199,Keyboard,Electronics,Electronics,4,566,2264,April
+TRX1670,CUST230,Smartphone,Electronics,Electronics,2,4526,9052,December
+TRX1671,CUST196,Face Wash,Beauty,Beauty,4,2658,10632,March
+TRX1672,CUST152,Shampoo,Beauty,Beauty,2,2147,4294,September
+TRX1673,CUST211,AI Basics,Books,Books,1,4943,4943,August
+TRX1674,CUST203,Table,Home,Home,1,2491,2491,December
+TRX1675,CUST009,Machine Learning,Books,Books,1,574,574,March
+TRX1676,CUST214,Lamp,Home,Home,1,1284,1284,December
+TRX1677,CUST148,Smartphone,Electronics,Electronics,1,4526,4526,January
+TRX1678,CUST010,Lamp,Home,Home,4,1284,5136,July
+TRX1679,CUST124,Shoes,Fashion,Fashion,4,230,920,February
+TRX1680,CUST167,Smartphone,Electronics,Electronics,2,4526,9052,December
+TRX1681,CUST072,Jacket,Fashion,Fashion,2,1785,3570,December
+TRX1682,CUST038,Table,Home,Home,3,2491,7473,September
+TRX1683,CUST238,Lamp,Home,Home,2,1284,2568,May
+TRX1684,CUST142,Machine Learning,Books,Books,3,574,1722,April
+TRX1685,CUST192,Keyboard,Electronics,Electronics,4,566,2264,February
+TRX1686,CUST235,Web Development,Books,Books,2,1182,2364,July
+TRX1687,CUST068,Headphones,Electronics,Electronics,3,960,2880,September
+TRX1688,CUST095,AI Basics,Books,Books,1,4943,4943,December
+TRX1689,CUST178,Jacket,Fashion,Fashion,4,1785,7140,July
+TRX1690,CUST146,Jeans,Fashion,Fashion,3,3019,9057,December
+TRX1691,CUST122,Keyboard,Electronics,Electronics,3,566,1698,September
+TRX1692,CUST223,Bedsheet,Home,Home,3,4655,13965,July
+TRX1693,CUST231,Jeans,Fashion,Fashion,2,3019,6038,October
+TRX1694,CUST179,Jacket,Fashion,Fashion,3,1785,5355,June
+TRX1695,CUST178,Shampoo,Beauty,Beauty,4,2147,8588,March
+TRX1696,CUST003,Shoes,Fashion,Fashion,3,230,690,December
+TRX1697,CUST093,Smartphone,Electronics,Electronics,4,4526,18104,February
+TRX1698,CUST004,T-Shirt,Fashion,Fashion,4,3271,13084,June
+TRX1699,CUST211,Moisturizer,Beauty,Beauty,2,1075,2150,September
+TRX1700,CUST219,Perfume,Beauty,Beauty,1,2847,2847,August
+TRX1701,CUST230,Data Science,Books,Books,3,3004,9012,March
+TRX1702,CUST068,Smartphone,Electronics,Electronics,4,4526,18104,June
+TRX1703,CUST035,Python Programming,Books,Books,4,4217,16868,April
+TRX1704,CUST046,Perfume,Beauty,Beauty,2,2847,5694,January
+TRX1705,CUST164,Mouse,Electronics,Electronics,1,3192,3192,September
+TRX1706,CUST002,Smartphone,Electronics,Electronics,4,4526,18104,February
+TRX1707,CUST052,Data Science,Books,Books,3,3004,9012,October
+TRX1708,CUST022,Lamp,Home,Home,3,1284,3852,December
+TRX1709,CUST186,Web Development,Books,Books,4,1182,4728,July
+TRX1710,CUST039,Face Wash,Beauty,Beauty,1,2658,2658,May
+TRX1711,CUST237,Web Development,Books,Books,4,1182,4728,October
+TRX1712,CUST097,Smartwatch,Electronics,Electronics,4,3544,14176,March
+TRX1713,CUST003,Shampoo,Beauty,Beauty,3,2147,6441,July
+TRX1714,CUST117,Jeans,Fashion,Fashion,4,3019,12076,February
+TRX1715,CUST067,Pillow,Home,Home,3,3485,10455,February
+TRX1716,CUST070,Keyboard,Electronics,Electronics,1,566,566,February
+TRX1717,CUST178,Keyboard,Electronics,Electronics,3,566,1698,July
+TRX1718,CUST145,Perfume,Beauty,Beauty,2,2847,5694,July
+TRX1719,CUST091,Jacket,Fashion,Fashion,1,1785,1785,December
+TRX1720,CUST113,Moisturizer,Beauty,Beauty,1,1075,1075,January
+TRX1721,CUST052,Smartwatch,Electronics,Electronics,2,3544,7088,May
+TRX1722,CUST231,Watch,Fashion,Fashion,1,869,869,March
+TRX1723,CUST223,Jeans,Fashion,Fashion,3,3019,9057,December
+TRX1724,CUST082,Smartwatch,Electronics,Electronics,2,3544,7088,March
+TRX1725,CUST098,AI Basics,Books,Books,2,4943,9886,September
+TRX1726,CUST208,Pillow,Home,Home,3,3485,10455,December
+TRX1727,CUST181,Moisturizer,Beauty,Beauty,4,1075,4300,November
+TRX1728,CUST094,Watch,Fashion,Fashion,3,869,2607,October
+TRX1729,CUST128,Watch,Fashion,Fashion,3,869,2607,June
+TRX1730,CUST197,AI Basics,Books,Books,1,4943,4943,October
+TRX1731,CUST048,Table,Home,Home,4,2491,9964,June
+TRX1732,CUST125,Shoes,Fashion,Fashion,3,230,690,April
+TRX1733,CUST126,Pillow,Home,Home,4,3485,13940,November
+TRX1734,CUST097,Shoes,Fashion,Fashion,3,230,690,January
+TRX1735,CUST021,Shoes,Fashion,Fashion,4,230,920,November
+TRX1736,CUST111,Shoes,Fashion,Fashion,1,230,230,March
+TRX1737,CUST035,Python Programming,Books,Books,1,4217,4217,November
+TRX1738,CUST230,Data Science,Books,Books,3,3004,9012,March
+TRX1739,CUST130,Jacket,Fashion,Fashion,1,1785,1785,October
+TRX1740,CUST069,Laptop,Electronics,Electronics,2,3872,7744,December
+TRX1741,CUST230,Perfume,Beauty,Beauty,2,2847,5694,February
+TRX1742,CUST076,Web Development,Books,Books,1,1182,1182,June
+TRX1743,CUST240,Mouse,Electronics,Electronics,2,3192,6384,May
+TRX1744,CUST238,Watch,Fashion,Fashion,1,869,869,October
+TRX1745,CUST230,AI Basics,Books,Books,4,4943,19772,May
+TRX1746,CUST015,Table,Home,Home,4,2491,9964,May
+TRX1747,CUST003,Web Development,Books,Books,4,1182,4728,July
+TRX1748,CUST235,Shampoo,Beauty,Beauty,2,2147,4294,November
+TRX1749,CUST166,Jeans,Fashion,Fashion,2,3019,6038,November
+TRX1750,CUST102,Mouse,Electronics,Electronics,4,3192,12768,August
+TRX1751,CUST097,Perfume,Beauty,Beauty,4,2847,11388,June
+TRX1752,CUST021,Pillow,Home,Home,4,3485,13940,August
+TRX1753,CUST020,Jeans,Fashion,Fashion,1,3019,3019,September
+TRX1754,CUST015,Jeans,Fashion,Fashion,1,3019,3019,June
+TRX1755,CUST080,Machine Learning,Books,Books,1,574,574,June
+TRX1756,CUST037,Smartphone,Electronics,Electronics,4,4526,18104,June
+TRX1757,CUST156,Face Wash,Beauty,Beauty,1,2658,2658,September
+TRX1758,CUST249,Pillow,Home,Home,2,3485,6970,March
+TRX1759,CUST049,Bedsheet,Home,Home,4,4655,18620,August
+TRX1760,CUST215,Face Wash,Beauty,Beauty,2,2658,5316,July
+TRX1761,CUST042,Python Programming,Books,Books,3,4217,12651,October
+TRX1762,CUST046,T-Shirt,Fashion,Fashion,1,3271,3271,May
+TRX1763,CUST155,Laptop,Electronics,Electronics,2,3872,7744,April
+TRX1764,CUST153,Perfume,Beauty,Beauty,2,2847,5694,October
+TRX1765,CUST070,Shampoo,Beauty,Beauty,2,2147,4294,October
+TRX1766,CUST082,Jacket,Fashion,Fashion,2,1785,3570,May
+TRX1767,CUST148,Python Programming,Books,Books,1,4217,4217,January
+TRX1768,CUST129,Moisturizer,Beauty,Beauty,1,1075,1075,September
+TRX1769,CUST239,Lamp,Home,Home,4,1284,5136,June
+TRX1770,CUST192,Web Development,Books,Books,2,1182,2364,January
+TRX1771,CUST024,Shoes,Fashion,Fashion,4,230,920,December
+TRX1772,CUST228,Table,Home,Home,3,2491,7473,June
+TRX1773,CUST207,Laptop,Electronics,Electronics,3,3872,11616,January
+TRX1774,CUST079,Shoes,Fashion,Fashion,4,230,920,November
+TRX1775,CUST069,Pillow,Home,Home,2,3485,6970,November
+TRX1776,CUST210,T-Shirt,Fashion,Fashion,2,3271,6542,February
+TRX1777,CUST215,Lamp,Home,Home,4,1284,5136,July
+TRX1778,CUST049,T-Shirt,Fashion,Fashion,1,3271,3271,February
+TRX1779,CUST233,Machine Learning,Books,Books,2,574,1148,May
+TRX1780,CUST164,Web Development,Books,Books,1,1182,1182,December
+TRX1781,CUST056,Bedsheet,Home,Home,1,4655,4655,July
+TRX1782,CUST217,Shoes,Fashion,Fashion,1,230,230,May
+TRX1783,CUST128,Lamp,Home,Home,1,1284,1284,April
+TRX1784,CUST101,Moisturizer,Beauty,Beauty,4,1075,4300,April
+TRX1785,CUST036,Web Development,Books,Books,2,1182,2364,February
+TRX1786,CUST208,Laptop,Electronics,Electronics,2,3872,7744,February
+TRX1787,CUST021,Machine Learning,Books,Books,3,574,1722,July
+TRX1788,CUST029,Watch,Fashion,Fashion,1,869,869,December
+TRX1789,CUST159,Table,Home,Home,3,2491,7473,January
+TRX1790,CUST101,Jacket,Fashion,Fashion,4,1785,7140,November
+TRX1791,CUST097,Chair,Home,Home,3,2533,7599,October
+TRX1792,CUST239,Bedsheet,Home,Home,2,4655,9310,March
+TRX1793,CUST041,Lamp,Home,Home,1,1284,1284,February
+TRX1794,CUST144,Machine Learning,Books,Books,1,574,574,July
+TRX1795,CUST014,Data Science,Books,Books,1,3004,3004,January
+TRX1796,CUST250,Jeans,Fashion,Fashion,3,3019,9057,January
+TRX1797,CUST069,Shampoo,Beauty,Beauty,1,2147,2147,January
+TRX1798,CUST161,Machine Learning,Books,Books,2,574,1148,September
+TRX1799,CUST062,Smartphone,Electronics,Electronics,1,4526,4526,February
+TRX1800,CUST206,Smartwatch,Electronics,Electronics,4,3544,14176,October
